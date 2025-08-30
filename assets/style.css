@@ -1,0 +1,10 @@
+:root{color-scheme:dark;--bg:#0b0b0b;--ink:#eaeaea;--muted:#8a8a8a;--accent:#c8c8ff;--line:#222;}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui}
+.banner{padding:2rem 1rem;text-align:center;border-bottom:1px solid var(--line)}
+.grid{display:grid;gap:1rem;padding:2rem;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.tile{display:block;padding:1rem;border:1px solid var(--line);background:#111;color:var(--ink);text-decoration:none}
+.tile:hover{border-color:var(--accent)}
+.quiz,.search,.card{max-width:800px;margin:2rem auto;padding:1.5rem;border:1px solid var(--line);background:#0f0f0f}
+fieldset{border:1px solid var(--line);margin:1rem 0;padding:1rem}
+.muted{color:var(--muted)}
+.webring{padding:1rem;text-align:center;border-top:1px solid var(--line);color:var(--muted)}

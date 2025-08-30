@@ -1,0 +1,1 @@
+document.getElementById('prev').href='#';document.getElementById('next').href='#';document.getElementById('random').href='#';
