@@ -2,20 +2,150 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
-  <title>Sorting Quiz</title>
+  <title>Sorting Quiz — Dark-Portal</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <link rel="stylesheet" href="../assets/style.css"/>
 </head>
 <body>
   <main class="quiz">
     <h1>Sorting Quiz</h1>
+    <p class="muted">Answer instinctively. No wrong answers. Each axis totals 5 (Head↔Heart, Self↔Scene, Fixed↔Fluid, Light↔Dark). Styles help guess your primary/secondary vibe.</p>
     <form id="quizForm">
-      <fieldset data-axis="HH" data-weight="1">
-        <legend>It’s 2 a.m. Do you…</legend>
-        <label><input type="radio" name="q1" value="HEAD" required> Edit your 47-page Cure thesis</label>
-        <label><input type="radio" name="q1" value="HEART"> Sing “Pictures of You” to your mirror</label>
+
+      <!-- ========== HEAD ↔ HEART (5) ========== -->
+      <fieldset data-axis="HH"><legend>It’s 2 a.m. Do you…</legend>
+        <label><input type="radio" name="q1" value="HEAD" required> Edit your 47-page Cure thesis</label><br>
+        <label><input type="radio" name="q1" value="HEART"> Serenade your mirror with “Pictures of You”</label>
       </fieldset>
-      <button type="submit">Reveal my archetype</button>
+      <fieldset data-axis="HH"><legend>Someone is wrong on the internet. You…</legend>
+        <label><input type="radio" name="q2" value="HEAD" required> Draft a footnoted rebuttal</label><br>
+        <label><input type="radio" name="q2" value="HEART"> Post a single devastating lyric</label>
+      </fieldset>
+      <fieldset data-axis="HH"><legend>New album drops:</legend>
+        <label><input type="radio" name="q3" value="HEAD" required> Read interviews & liner notes first</label><br>
+        <label><input type="radio" name="q3" value="HEART"> Hit play and feel it in your ribs</label>
+      </fieldset>
+      <fieldset data-axis="HH"><legend>Conflict with a friend:</legend>
+        <label><input type="radio" name="q4" value="HEAD" required> Talk frameworks & solutions</label><br>
+        <label><input type="radio" name="q4" value="HEART"> Sit with it; write them a note</label>
+      </fieldset>
+      <fieldset data-axis="HH"><legend>Choosing an outfit:</legend>
+        <label><input type="radio" name="q5" value="HEAD" required> Cohesive palette & silhouette rules</label><br>
+        <label><input type="radio" name="q5" value="HEART"> Whatever sparks a feeling today</label>
+      </fieldset>
+
+      <!-- ========== SELF ↔ SCENE (5) ========== -->
+      <fieldset data-axis="SS"><legend>Friday night looks like:</legend>
+        <label><input type="radio" name="q6" value="SELF" required> Candles, journal, albums</label><br>
+        <label><input type="radio" name="q6" value="SCENE"> Roll in with six friends to the club</label>
+      </fieldset>
+      <fieldset data-axis="SS"><legend>At parties you usually…</legend>
+        <label><input type="radio" name="q7" value="SELF" required> Ghost out without a word</label><br>
+        <label><input type="radio" name="q7" value="SCENE"> Close down the parking-lot afterparty</label>
+      </fieldset>
+      <fieldset data-axis="SS"><legend>Big festival invites you:</legend>
+        <label><input type="radio" name="q8" value="SELF" required> I’ll watch streams at home</label><br>
+        <label><input type="radio" name="q8" value="SCENE"> Let me organize a meetup</label>
+      </fieldset>
+      <fieldset data-axis="SS"><legend>Music discovery:</legend>
+        <label><input type="radio" name="q9" value="SELF" required> Solitary rabbit holes</label><br>
+        <label><input type="radio" name="q9" value="SCENE"> Friends/DJs tell me what’s cooking</label>
+      </fieldset>
+      <fieldset data-axis="SS"><legend>Your ideal contribution:</legend>
+        <label><input type="radio" name="q10" value="SELF" required> Deep reviews, archiving, mixes</label><br>
+        <label><input type="radio" name="q10" value="SCENE"> Hosting, promoting, bringing people</label>
+      </fieldset>
+
+      <!-- ========== FIXED ↔ FLUID (5) ========== -->
+      <fieldset data-axis="FF"><legend>New subgenre appears:</legend>
+        <label><input type="radio" name="q11" value="FIXED" required> “Everything after ’92 is cosplay.”</label><br>
+        <label><input type="radio" name="q11" value="FLUID"> I evolve overnight</label>
+      </fieldset>
+      <fieldset data-axis="FF"><legend>Playlists:</legend>
+        <label><input type="radio" name="q12" value="FIXED" required> Same sacred albums, curated forever</label><br>
+        <label><input type="radio" name="q12" value="FLUID"> Constantly refreshed explorations</label>
+      </fieldset>
+      <fieldset data-axis="FF"><legend>Hair/makeup routine:</legend>
+        <label><input type="radio" name="q13" value="FIXED" required> Signature look, ritualized</label><br>
+        <label><input type="radio" name="q13" value="FLUID"> Experimental wildcard</label>
+      </fieldset>
+      <fieldset data-axis="FF"><legend>Opinions about “canon”:</legend>
+        <label><input type="radio" name="q14" value="FIXED" required> Canon matters; language matters</label><br>
+        <label><input type="radio" name="q14" value="FLUID"> Canon is a sandbox, remix it</label>
+      </fieldset>
+      <fieldset data-axis="FF"><legend>Your closet:</legend>
+        <label><input type="radio" name="q15" value="FIXED" required> Cohesive uniforms</label><br>
+        <label><input type="radio" name="q15" value="FLUID"> Mood-board chaos (on purpose)</label>
+      </fieldset>
+
+      <!-- ========== LIGHT ↔ DARK (5) ========== -->
+      <fieldset data-axis="LD"><legend>Meme vibe:</legend>
+        <label><input type="radio" name="q16" value="LIGHT" required> Absurd chaos</label><br>
+        <label><input type="radio" name="q16" value="DARK"> Bone-dry gallows humor</label>
+      </fieldset>
+      <fieldset data-axis="LD"><legend>Color in your fit:</legend>
+        <label><input type="radio" name="q17" value="LIGHT" required> Occasional pastels/neon accents</label><br>
+        <label><input type="radio" name="q17" value="DARK"> Monochrome abyss</label>
+      </fieldset>
+      <fieldset data-axis="LD"><legend>Dancefloor posture:</legend>
+        <label><input type="radio" name="q18" value="LIGHT" required> Goofy joy, shoulders loose</label><br>
+        <label><input type="radio" name="q18" value="DARK"> Slow ritual; eyes closed</label>
+      </fieldset>
+      <fieldset data-axis="LD"><legend>Movie night:</legend>
+        <label><input type="radio" name="q19" value="LIGHT" required> Campy, weird, knowingly silly</label><br>
+        <label><input type="radio" name="q19" value="DARK"> Brooding, tragic, beautiful</label>
+      </fieldset>
+      <fieldset data-axis="LD"><legend>Coffee order:</legend>
+        <label><input type="radio" name="q20" value="LIGHT" required> Sweet, playful, iced</label><br>
+        <label><input type="radio" name="q20" value="DARK"> Black as midnight on a moonless night</label>
+      </fieldset>
+
+      <!-- ========== STYLE HINTS (10) ========== -->
+      <fieldset><legend>Silhouette</legend>
+        <label><input type="radio" name="q21" value="A" data-style="fashion-historical/romantic"> Corsets/skirts/ruffles</label><br>
+        <label><input type="radio" name="q21" value="B" data-style="futuristic-club/cyber" data-intensity="extreme"> Straps/panels/techwear</label>
+      </fieldset>
+      <fieldset><legend>Textures</legend>
+        <label><input type="radio" name="q22" value="A" data-style="witchy"> Velvet/lace</label><br>
+        <label><input type="radio" name="q22" value="B" data-style="music-first/trad"> Leather/denim</label>
+      </fieldset>
+      <fieldset><legend>Palette</legend>
+        <label><input type="radio" name="q23" value="A" data-style="internet-soft/pastel"> Pastels/whimsigoth</label><br>
+        <label><input type="radio" name="q23" value="B" data-style="music-first/darkwave"> Deep jewel/black-heavy</label>
+      </fieldset>
+      <fieldset><legend>Hair</legend>
+        <label><input type="radio" name="q24" value="A" data-style="fashion-editorial"> Sculptural/editorial</label><br>
+        <label><input type="radio" name="q24" value="B" data-style="music-first/post-punk"> Shag/mullet/bangs</label>
+      </fieldset>
+      <fieldset><legend>Footwear</legend>
+        <label><input type="radio" name="q25" value="A" data-style="fashion-historical/victorian"> Pointed boots/heels</label><br>
+        <label><input type="radio" name="q25" value="B" data-style="futuristic-club/cyber" data-intensity="extreme"> Platforms/nylon/UV</label>
+      </fieldset>
+      <fieldset><legend>Accessories</legend>
+        <label><input type="radio" name="q26" value="A" data-style="witchy"> Sigils, crystals, rings</label><br>
+        <label><input type="radio" name="q26" value="B" data-style="industrial/rivet"> Hardware, straps, goggles</label>
+      </fieldset>
+      <fieldset><legend>Venue comfort</legend>
+        <label><input type="radio" name="q27" value="A" data-style="music-first/trad"> Dark clubs/live shows</label><br>
+        <label><input type="radio" name="q27" value="B" data-style="internet-soft/alt"> Daytime markets/meets</label>
+      </fieldset>
+      <fieldset><legend>Makeup</legend>
+        <label><input type="radio" name="q28" value="A" data-style="fashion-editorial"> Graphic liner/high-contrast</label><br>
+        <label><input type="radio" name="q28" value="B" data-style="internet-soft/pastel"> Soft blush/gloss shimmer</label>
+      </fieldset>
+      <fieldset><legend>Dancefloor sound</legend>
+        <label><input type="radio" name="q29" value="A" data-style="music-first/darkwave"> Darkwave/ethereal</label><br>
+        <label><input type="radio" name="q29" value="B" data-style="industrial/rivet" data-intensity="extreme"> EBM/industrial</label>
+      </fieldset>
+      <fieldset><legend>DIY energy</legend>
+        <label><input type="radio" name="q30" value="A" data-style="fashion-historical/romantic"> Upcycle lace & brocade</label><br>
+        <label><input type="radio" name="q30" value="B" data-style="futuristic-club/cyber"> 3D-print, wire, LEDs</label>
+      </fieldset>
+
+      <div class="controls">
+        <button type="submit">Reveal my archetype</button>
+        <button type="reset">Reset</button>
+      </div>
     </form>
   </main>
   <script src="../js/quiz-logic.js"></script>
