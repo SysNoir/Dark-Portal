@@ -4,7 +4,8 @@
     "name": "13th Chime",
     "aka": [],
     "styles": [
-      "deathrock, goth"
+      "deathrock",
+      "goth"
     ],
     "era": [
       "1980s"
@@ -21,7 +22,8 @@
     "name": "3TEETH",
     "aka": [],
     "styles": [
-      "industrial, ebm rock"
+      "industrial",
+      "ebm rock"
     ],
     "era": [
       "2010s",
@@ -33,7 +35,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 7 (2014–2023). Subgenres: industrial, ebm rock. Types: album, single. Notes: Aggressive late-2010s single.; Breakout single; US industrial revival signal.; LA industrial resurgence; merged classic EBM with metal heft. Breakout LP; club hits.; LA industrial resurgence; merged classic EBM with metal heft. Debut; signaled new US industrial wave.; LA industrial resurgence; merged classic EBM with metal heft. Late-decade continuation.; LA industrial; heavy, modern production. B"
+    "desc": "Releases: 7 (2014–2023). Subgenres: industrial, ebm rock. Types: album, single. Notes: Aggressive late-2010s single.; Breakout single; US industrial revival signal.; LA industrial resurgence; merged classic EBM with metal heft. Breakout LP; club hits.; LA industrial resurgence; merged classic EBM with metal heft. Debut; signaled new US industrial wave.; LA industrial resurgence; merged classic EBM with metal heft. Late-decade continuation.; LA industrial; heavy, modern production…"
   },
   {
     "id": "45-grave",
@@ -58,7 +60,7 @@
     "aka": [],
     "styles": [
       "dark electro",
-      "dark electro, industrial"
+      "industrial"
     ],
     "era": [
       "1990s",
@@ -69,14 +71,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1993–2004). Subgenres: dark electro, dark electro, industrial. Types: album. Notes: German dark electro veteran; omnipresent in DJ crates. Bleak late-2000s entry.; German dark electro veteran; omnipresent in DJ crates. Title track = mandatory 2000s club hit.; Harsh German dark electro; underground club essential. Late-90s iteration; enduring scene love.; Harsh German dark electro; underground club essential. Seminal debut.; Harsh German dark electro; underground club essential. S"
+    "desc": "Releases: 5 (1993–2004). Subgenres: dark electro, industrial. Types: album. Notes: German dark electro veteran; omnipresent in DJ crates. Bleak late-2000s entry.; German dark electro veteran; omnipresent in DJ crates. Title track = mandatory 2000s club hit.; Harsh German dark electro; underground club essential. Late-90s iteration; enduring scene love.; Harsh German dark electro; underground club essential. Seminal debut.; Harsh German dark electro; underground club essential…"
   },
   {
     "id": "a-split-second",
     "name": "A Split-Second",
     "aka": [],
     "styles": [
-      "ebm, new beat"
+      "ebm",
+      "new beat"
     ],
     "era": [
       "1980s"
@@ -93,7 +96,8 @@
     "name": "Actors",
     "aka": [],
     "styles": [
-      "post-punk, darkwave"
+      "post-punk",
+      "darkwave"
     ],
     "era": [
       "2010s",
@@ -111,9 +115,8 @@
     "name": "Aesthetic Perfection",
     "aka": [],
     "styles": [
-      "harsh electro, industrial pop",
-      "industrial pop",
-      "industrial pop, harsh electro"
+      "harsh electro",
+      "industrial pop"
     ],
     "era": [
       "2000s",
@@ -126,7 +129,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 8 (2005–2022). Subgenres: harsh electro, industrial pop, industrial pop, industrial pop, harsh electro. Types: album, single. Notes: LA project blending harsh beats and pop hooks. Breakout LP of the decade.; LA project blending harsh beats and pop hooks. Late-decade singles widely played.; LA project blending harsh beats and pop hooks. More melodic; DJs cherry-picked bangers.; LA project blending harsh beats with pop sensibilities. Breakout with big club singles.; LA project blending harsh beats with pop sensibilities. Debut; D"
+    "desc": "Releases: 8 (2005–2022). Subgenres: harsh electro, industrial pop. Types: album, single. Notes: LA project blending harsh beats and pop hooks. Breakout LP of the decade.; LA project blending harsh beats and pop hooks. Late-decade singles widely played.; LA project blending harsh beats and pop hooks. More melodic; DJs cherry-picked bangers.; LA project blending harsh beats with pop sensibilities. Breakout with big club singles.; LA project blending harsh beats with pop sensibilities. Debut…"
   },
   {
     "id": "after-forever",
@@ -157,18 +160,19 @@
     ],
     "region": "Berlin, Germany",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2004–2007). Subgenres: aggrotech. Types: album, ep. Notes: Berlin aggrotech with notorious live shows."
+    "desc": "Releases: 3 (2004–2007). Subgenres: aggrotech. Types: ep, album. Notes: Berlin aggrotech with notorious live shows."
   },
   {
     "id": "alien-sex-fiend",
     "name": "Alien Sex Fiend",
     "aka": [],
     "styles": [
-      "deathrock, batcave"
+      "deathrock",
+      "batcave"
     ],
     "era": [
       "1980s"
@@ -186,7 +190,7 @@
     "aka": [],
     "styles": [
       "aggrotech",
-      "harsh industrial, aggrotech"
+      "harsh industrial"
     ],
     "era": [
       "2020s"
@@ -196,7 +200,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2020–2022). Subgenres: aggrotech, harsh industrial, aggrotech. Types: album. Notes: Extreme aggrotech; niche but notable.; Harsher niche; occasionally in extreme sets."
+    "desc": "Releases: 2 (2020–2022). Subgenres: aggrotech, harsh industrial. Types: album. Notes: Extreme aggrotech; niche but notable.; Harsher niche; occasionally in extreme sets."
   },
   {
     "id": "and-also-the-trees",
@@ -204,7 +208,8 @@
     "aka": [],
     "styles": [
       "pastoral goth",
-      "post-punk, dark folk"
+      "post-punk",
+      "dark folk"
     ],
     "era": [
       "1980s",
@@ -222,7 +227,8 @@
     "name": "And One",
     "aka": [],
     "styles": [
-      "ebm, synthpop"
+      "ebm",
+      "synthpop"
     ],
     "era": [
       "1990s",
@@ -234,15 +240,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 6 (1991–2006). Subgenres: ebm, synthpop. Types: album, single. Notes: Berlin EBM/synth; sleek dance singles throughout the decade. Early LP; set tone for 90s output.; Berlin EBM/synth; sleek dance singles throughout the decade. Late-90s LP; club cuts inside.; Berlin EBM/synth; sleek dance singles throughout the decade. Refined synthpop/EBM hybrid.; Berlin EBM/synth; sleek dance singles throughout the decade. Signature single in US clubs.; Berlin institution; wry, da"
+    "desc": "Releases: 6 (1991–2006). Subgenres: ebm, synthpop. Types: album, single. Notes: Berlin EBM/synth; sleek dance singles throughout the decade. Early LP; set tone for 90s output.; Berlin EBM/synth; sleek dance singles throughout the decade. Late-90s LP; club cuts inside.; Berlin EBM/synth; sleek dance singles throughout the decade. Refined synthpop/EBM hybrid.; Berlin EBM/synth; sleek dance singles throughout the decade. Signature single in US clubs.; Berlin institution; wry,…"
   },
   {
     "id": "apoptygma-berzerk",
     "name": "Apoptygma Berzerk",
     "aka": [],
     "styles": [
-      "ebm, futurepop",
-      "futurepop, ebm"
+      "ebm",
+      "futurepop"
     ],
     "era": [
       "1990s",
@@ -254,14 +260,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 7 (1993–2009). Subgenres: ebm, futurepop, futurepop, ebm. Types: album, single. Notes: Norwegian electro-pop crossing into alt territories. Alt-crossover turn; DJs cherry-picked darker cuts.; Norwegian electro-pop crossing into alt territories. Further pop-rock lean; peripheral in goth sets.; Norwegian electro-pop crossing into alt territories. Futurepop-leaning; big club singles.; Norwegian electro; melodic hooks made them club fixtures. Big 12\" in dark clubs.; Norwegian electro; m"
+    "desc": "Releases: 7 (1993–2009). Subgenres: ebm, futurepop. Types: album, single. Notes: Norwegian electro-pop crossing into alt territories. Alt-crossover turn; DJs cherry-picked darker cuts.; Norwegian electro-pop crossing into alt territories. Further pop-rock lean; peripheral in goth sets.; Norwegian electro-pop crossing into alt territories. Futurepop-leaning; big club singles.; Norwegian electro; melodic hooks made them club fixtures. Big 12\" in dark clubs.; Norwegian electro…"
   },
   {
     "id": "arcana",
     "name": "Arcana",
     "aka": [],
     "styles": [
-      "ethereal, neoclassical darkwave"
+      "ethereal",
+      "neoclassical darkwave"
     ],
     "era": [
       "2000s"
@@ -278,7 +285,8 @@
     "name": "Ash Code",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s",
@@ -297,7 +305,8 @@
     "name": "Assemblage 23",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "1990s",
@@ -311,7 +320,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 9 (1999–2020). Subgenres: futurepop, ebm. Types: album, single. Notes: Defining A23 club single.; US futurepop leader; emotionally direct lyrics + club-ready beats. Breakthrough LP; fixtures in US clubs.; US futurepop leader; emotionally direct lyrics + club-ready beats. DJ staple from early 2000s.; US futurepop leader; emotionally direct lyrics + club-ready beats. Polished songwriting, strong singles.; US futurepop leader; emotionally direct lyrics + club-ready beat"
+    "desc": "Releases: 9 (1999–2020). Subgenres: futurepop, ebm. Types: album, single. Notes: Defining A23 club single.; US futurepop leader; emotionally direct lyrics + club-ready beats. Breakthrough LP; fixtures in US clubs.; US futurepop leader; emotionally direct lyrics + club-ready beats. DJ staple from early 2000s.; US futurepop leader; emotionally direct lyrics + club-ready beats. Polished songwriting, strong singles.; US futurepop leader; emotionally direct lyrics + club-ready b…"
   },
   {
     "id": "author-punisher",
@@ -325,11 +334,11 @@
     ],
     "region": "San Diego, United States",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2020–2021). Subgenres: industrial doom (adj.). Types: album, ep. Notes: Heavy, mechanical industrial adjacent.; Heavy, textural; adventurous DJs only."
+    "desc": "Releases: 2 (2020–2021). Subgenres: industrial doom (adj.). Types: ep, album. Notes: Heavy, mechanical industrial adjacent.; Heavy, textural; adventurous DJs only."
   },
   {
     "id": "balaam-and-the-angel",
@@ -361,18 +370,19 @@
     ],
     "region": "Northampton, United Kingdom",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (1979–1983). Subgenres: gothic rock. Types: album, single. Notes: Commonly cited as first true goth band. Artier, dense gloom.; Commonly cited as first true goth band. Defining goth LP.; Commonly cited as first true goth band. Expanded palette, still stark.; Commonly cited as first true goth band. Final LP; scene staple.; Commonly cited as first true goth band. Ur-text of goth; nine-minute dirge.; Ferocious follow-up to ‘Bela’; dancefloor."
+    "desc": "Releases: 6 (1979–1983). Subgenres: gothic rock. Types: single, album. Notes: Commonly cited as first true goth band. Artier, dense gloom.; Commonly cited as first true goth band. Defining goth LP.; Commonly cited as first true goth band. Expanded palette, still stark.; Commonly cited as first true goth band. Final LP; scene staple.; Commonly cited as first true goth band. Ur-text of goth; nine-minute dirge.; Ferocious follow-up to ‘Bela’; dancefloor."
   },
   {
     "id": "beastmilk",
     "name": "Beastmilk",
     "aka": [],
     "styles": [
-      "post-punk, goth rock"
+      "post-punk",
+      "goth rock"
     ],
     "era": [
       "2010s"
@@ -389,7 +399,8 @@
     "name": "Belgrado",
     "aka": [],
     "styles": [
-      "post-punk, darkwave"
+      "post-punk",
+      "darkwave"
     ],
     "era": [
       "2020s"
@@ -406,7 +417,8 @@
     "name": "Bella Morte",
     "aka": [],
     "styles": [
-      "darkwave, goth rock"
+      "darkwave",
+      "goth rock"
     ],
     "era": [
       "2000s"
@@ -457,7 +469,8 @@
     "name": "Black Tape for a Blue Girl",
     "aka": [],
     "styles": [
-      "ethereal, darkwave"
+      "ethereal",
+      "darkwave"
     ],
     "era": [
       "1990s",
@@ -475,7 +488,8 @@
     "name": "Bleib Modern",
     "aka": [],
     "styles": [
-      "post-punk, darkwave"
+      "post-punk",
+      "darkwave"
     ],
     "era": [
       "2020s"
@@ -492,7 +506,8 @@
     "name": "Blume",
     "aka": [],
     "styles": [
-      "futurepop, synth-goth"
+      "futurepop",
+      "synth-goth"
     ],
     "era": [
       "2020s"
@@ -509,7 +524,8 @@
     "name": "Blutengel",
     "aka": [],
     "styles": [
-      "electro-goth, darkwave"
+      "electro-goth",
+      "darkwave"
     ],
     "era": [
       "2000s"
@@ -526,7 +542,8 @@
     "name": "Bootblacks",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2020s"
@@ -543,7 +560,8 @@
     "name": "Boy Harsher",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth"
+      "darkwave",
+      "minimal synth"
     ],
     "era": [
       "2010s",
@@ -563,7 +581,8 @@
     "name": "Buzz Kull",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth"
+      "darkwave",
+      "minimal synth"
     ],
     "era": [
       "2020s"
@@ -581,8 +600,8 @@
     "aka": [],
     "styles": [
       "industrial",
-      "industrial, ebm",
-      "industrial, post-punk"
+      "post-punk",
+      "ebm"
     ],
     "era": [
       "1970s",
@@ -594,16 +613,16 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 5 (1979–1983). Subgenres: industrial, industrial, ebm, industrial, post-punk. Types: album, single. Notes: Dancefloor turn; scene classic.; Harsh electronics; club DNA.; Industrial pioneers; eerie electronics.; Seminal single; proto-EBM energy.; Transitional era; DJs pick cuts."
+    "desc": "Releases: 5 (1979–1983). Subgenres: industrial, post-punk, ebm. Types: album, single. Notes: Dancefloor turn; scene classic.; Harsh electronics; club DNA.; Industrial pioneers; eerie electronics.; Seminal single; proto-EBM energy.; Transitional era; DJs pick cuts."
   },
   {
     "id": "centhron",
     "name": "Centhron",
     "aka": [],
     "styles": [
-      "harsh ebm, aggrotech",
       "harsh electro",
-      "harsh electro, aggrotech"
+      "aggrotech",
+      "harsh ebm"
     ],
     "era": [
       "2010s",
@@ -614,14 +633,14 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2011–2020). Subgenres: harsh ebm, aggrotech, harsh electro, harsh electro, aggrotech. Types: album. Notes: Harsh 2020s return; DJs spun cuts.; Harsh German aggrotech; club staple.; Militaristic harsh EBM; niche but present.; Norse-themed harsh EBM; niche sets."
+    "desc": "Releases: 4 (2011–2020). Subgenres: harsh electro, aggrotech, harsh ebm. Types: album. Notes: Harsh 2020s return; DJs spun cuts.; Harsh German aggrotech; club staple.; Militaristic harsh EBM; niche but present.; Norse-themed harsh EBM; niche sets."
   },
   {
     "id": "chelsea-wolfe",
     "name": "Chelsea Wolfe",
     "aka": [],
     "styles": [
-      "dark folk, doomgaze (adj.)",
+      "dark folk",
       "doomgaze (adj.)"
     ],
     "era": [
@@ -630,11 +649,11 @@
     ],
     "region": "Los Angeles, United States",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (2013–2024). Subgenres: dark folk, doomgaze (adj.), doomgaze (adj.). Types: album, single. Notes: Breakout single; scene-defining atmosphere.; Previews her 2024 album; widely shared.; US dark artist; embraced across goth communities. Major late-2020s LP; broad scene acclaim.; US dark singer-songwriter; widely embraced in goth scenes. Breakthrough to goth audiences.; US dark singer-songwriter; widely embraced in goth scenes. Doom-tinged; scene favorite.; US dark singer-songwriter; widely embrac"
+    "desc": "Releases: 6 (2013–2024). Subgenres: dark folk, doomgaze (adj.). Types: single, album. Notes: Breakout single; scene-defining atmosphere.; Previews her 2024 album; widely shared.; US dark artist; embraced across goth communities. Major late-2020s LP; broad scene acclaim.; US dark singer-songwriter; widely embraced in goth scenes. Breakthrough to goth audiences.; US dark singer-songwriter; widely embraced in goth scenes. Doom-tinged; scene favorite.; US dark singer-songwriter; widely emb…"
   },
   {
     "id": "children-on-stun",
@@ -648,18 +667,19 @@
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (1994–1996). Subgenres: gothic rock. Types: album, ep. Notes: UK revival goth; club-favorite singles among trad DJs. Early EP; cult classic.; UK revival goth; club-favorite singles among trad DJs. Melodic trad-goth."
+    "desc": "Releases: 2 (1994–1996). Subgenres: gothic rock. Types: ep, album. Notes: UK revival goth; club-favorite singles among trad DJs. Early EP; cult classic.; UK revival goth; club-favorite singles among trad DJs. Melodic trad-goth."
   },
   {
     "id": "choir-boy",
     "name": "Choir Boy",
     "aka": [],
     "styles": [
-      "dream pop, synth-goth"
+      "dream pop",
+      "synth-goth"
     ],
     "era": [
       "2010s",
@@ -677,7 +697,8 @@
     "name": "Christian Death",
     "aka": [],
     "styles": [
-      "deathrock, gothic rock"
+      "deathrock",
+      "gothic rock"
     ],
     "era": [
       "1980s"
@@ -694,7 +715,8 @@
     "name": "Cinema Strange",
     "aka": [],
     "styles": [
-      "deathrock, goth rock"
+      "deathrock",
+      "goth rock"
     ],
     "era": [
       "2000s"
@@ -712,7 +734,7 @@
     "aka": [],
     "styles": [
       "darkwave",
-      "darkwave, goth"
+      "goth"
     ],
     "era": [
       "1980s",
@@ -725,14 +747,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 11 (1985–2023). Subgenres: darkwave, darkwave, goth. Types: album. Notes: Dutch darkwave legends; 2000s renewal resonated in US clubs. Modern production with classic gloom.; Dutch darkwave legends; 2000s renewal resonated in US clubs. Return-to-form LP.; Dutch darkwave legends; 2000s renewal resonated in US clubs. Solid mid-2000s entry.; Dutch darkwave; 80s classics central to goth clubs. Crossover reach; still dark.; Dutch darkwave; 80s classics central to goth clubs. "
+    "desc": "Releases: 11 (1985–2023). Subgenres: darkwave, goth. Types: album. Notes: Dutch darkwave legends; 2000s renewal resonated in US clubs. Modern production with classic gloom.; Dutch darkwave legends; 2000s renewal resonated in US clubs. Return-to-form LP.; Dutch darkwave legends; 2000s renewal resonated in US clubs. Solid mid-2000s entry.; Dutch darkwave; 80s classics central to goth clubs. Crossover reach; still dark.; Dutch darkwave; 80s classics central to goth club…"
   },
   {
     "id": "clock-dva",
     "name": "Clock DVA",
     "aka": [],
     "styles": [
-      "industrial, post-punk"
+      "industrial",
+      "post-punk"
     ],
     "era": [
       "1980s"
@@ -760,14 +783,15 @@
       "ep"
     ],
     "url": "",
-    "desc": "Releases: 7 (1982–1988). Subgenres: ethereal wave. Types: album, ep. Notes: Ethereal archetype; adopted by goth audiences. Dark, early period.; Ethereal archetype; adopted by goth audiences. Dream-pop deepens.; Ethereal archetype; adopted by goth audiences. Ethereal landmark.; Ethereal archetype; adopted by goth audiences. Late-80s classic.; Ethereal archetype; adopted by goth audiences. Lighter but still scene-liked.; Iconic EP; ethereal clubs.; Twin EPs; DJ-favored cuts"
+    "desc": "Releases: 7 (1982–1988). Subgenres: ethereal wave. Types: album, ep. Notes: Ethereal archetype; adopted by goth audiences. Dark, early period.; Ethereal archetype; adopted by goth audiences. Dream-pop deepens.; Ethereal archetype; adopted by goth audiences. Ethereal landmark.; Ethereal archetype; adopted by goth audiences. Late-80s classic.; Ethereal archetype; adopted by goth audiences. Lighter but still scene-liked.; Iconic EP; ethereal clubs.; Twin EPs; DJ-favored c…"
   },
   {
     "id": "cold-cave",
     "name": "Cold Cave",
     "aka": [],
     "styles": [
-      "darkwave, synth goth"
+      "darkwave",
+      "synth goth"
     ],
     "era": [
       "2010s",
@@ -775,19 +799,20 @@
     ],
     "region": "Los Angeles, United States",
     "tags": [
+      "single",
       "album",
-      "ep",
-      "single"
+      "ep"
     ],
     "url": "",
-    "desc": "Releases: 6 (2011–2021). Subgenres: darkwave, synth goth. Types: album, ep, single. Notes: Beloved single in clubs.; Scene single from glossy era.; US dark synth project; singles-driven 2010s. Big, glossy production; DJs picked darker cuts.; US dark synth project; singles-driven 2010s. Club single in US scenes.; US dark synth project; singles-driven 2010s. Late-decade synth-goth.; US dark synth; singles-forward decade. Pack of club singles."
+    "desc": "Releases: 6 (2011–2021). Subgenres: darkwave, synth goth. Types: single, album, ep. Notes: Beloved single in clubs.; Scene single from glossy era.; US dark synth project; singles-driven 2010s. Big, glossy production; DJs picked darker cuts.; US dark synth project; singles-driven 2010s. Club single in US scenes.; US dark synth project; singles-driven 2010s. Late-decade synth-goth.; US dark synth; singles-forward decade. Pack of club singles."
   },
   {
     "id": "combichrist",
     "name": "Combichrist",
     "aka": [],
     "styles": [
-      "aggrotech, industrial"
+      "aggrotech",
+      "industrial"
     ],
     "era": [
       "2000s",
@@ -798,15 +823,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (2003–2016). Subgenres: aggrotech, industrial. Types: album. Notes: Aggrotech force; expanded into industrial rock mid-decade. Heavier; niche club tracks.; Aggrotech force; expanded into industrial rock mid-decade. Peak dancefloor era.; Aggrotech force; expanded into industrial rock mid-decade. Rock-industrial hybrid; selective DJ use.; Andy LaPlegua project; took aggrotech to US mainstream alt clubs. Breakout LP; club weapons galore.; Andy LaPlegua project; took "
+    "desc": "Releases: 6 (2003–2016). Subgenres: aggrotech, industrial. Types: album. Notes: Aggrotech force; expanded into industrial rock mid-decade. Heavier; niche club tracks.; Aggrotech force; expanded into industrial rock mid-decade. Peak dancefloor era.; Aggrotech force; expanded into industrial rock mid-decade. Rock-industrial hybrid; selective DJ use.; Andy LaPlegua project; took aggrotech to US mainstream alt clubs. Breakout LP; club weapons galore.; Andy LaPlegua project; to…"
   },
   {
     "id": "covenant",
     "name": "Covenant",
     "aka": [],
     "styles": [
-      "ebm, futurepop",
-      "futurepop, ebm"
+      "ebm",
+      "futurepop"
     ],
     "era": [
       "1990s",
@@ -821,14 +846,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 10 (1996–2024). Subgenres: ebm, futurepop, futurepop, ebm. Types: album, ep, single. Notes: Massive floor anthem; festival staple.; Swedish trio; icy EBM evolving into futurepop; prized US import. Breakthrough LP in dark clubs.; Swedish trio; icy EBM evolving into futurepop; prized US import. Refined electronics; set up 2000s dominance.; Swedish trio; icy EBM evolving into futurepop; prized US import. Signature EP; DJ essential.; Swedish trio; icy electronics. Peripheral but DJ-useful re"
+    "desc": "Releases: 10 (1996–2024). Subgenres: ebm, futurepop. Types: album, ep, single. Notes: Massive floor anthem; festival staple.; Swedish trio; icy EBM evolving into futurepop; prized US import. Breakthrough LP in dark clubs.; Swedish trio; icy EBM evolving into futurepop; prized US import. Refined electronics; set up 2000s dominance.; Swedish trio; icy EBM evolving into futurepop; prized US import. Signature EP; DJ essential.; Swedish trio; icy electronics. Peripheral but DJ-useful…"
   },
   {
     "id": "creux-lies",
     "name": "Creux Lies",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2020s"
@@ -845,7 +871,8 @@
     "name": "DAF",
     "aka": [],
     "styles": [
-      "ebm, neue deutsche welle"
+      "ebm",
+      "neue deutsche welle"
     ],
     "era": [
       "1980s"
@@ -862,7 +889,8 @@
     "name": "Darkher",
     "aka": [],
     "styles": [
-      "dark folk, ethereal doom",
+      "dark folk",
+      "ethereal doom",
       "ethereal doom (adj.)"
     ],
     "era": [
@@ -881,7 +909,8 @@
     "name": "David Bowie",
     "aka": [],
     "styles": [
-      "proto-goth, art rock"
+      "proto-goth",
+      "art rock"
     ],
     "era": [
       "1970s"
@@ -898,26 +927,28 @@
     "name": "De/Vision",
     "aka": [],
     "styles": [
-      "synthpop, darkwave"
+      "synthpop",
+      "darkwave"
     ],
     "era": [
       "1990s"
     ],
     "region": "Frankfurt, Germany",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (1994–1998). Subgenres: synthpop, darkwave. Types: album, single. Notes: German synth/dark crossover; beloved imports in US clubs. 90s highlight.; German synth/dark crossover; beloved imports in US clubs. Early single; DJ staple for synth sets.; German synth/dark crossover; beloved imports in US clubs. Late-90s LP; scene favorite."
+    "desc": "Releases: 3 (1994–1998). Subgenres: synthpop, darkwave. Types: single, album. Notes: German synth/dark crossover; beloved imports in US clubs. 90s highlight.; German synth/dark crossover; beloved imports in US clubs. Early single; DJ staple for synth sets.; German synth/dark crossover; beloved imports in US clubs. Late-90s LP; scene favorite."
   },
   {
     "id": "dead-can-dance",
     "name": "Dead Can Dance",
     "aka": [],
     "styles": [
-      "ethereal, darkwave",
-      "ethereal, world darkwave"
+      "ethereal",
+      "darkwave",
+      "world darkwave"
     ],
     "era": [
       "1980s",
@@ -926,18 +957,19 @@
     ],
     "region": "Melbourne, Australia",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 7 (1983–2022). Subgenres: ethereal, darkwave, ethereal, world darkwave. Types: album, ep. Notes: 4AD duo; ritual, ancient-modern gloom. Cathedralic; DJ interludes.; 4AD duo; ritual, ancient-modern gloom. Goth-scene essential.; 4AD duo; ritual, ancient-modern gloom. Neoclassical turn; canon.; 4AD duo; ritual, ancient-modern gloom. Post-punk-inflected debut.; 4AD legends; late-era return embraced by goth listeners. Return after long hiatus.; 4AD legends; touring era continued; catalog re-emphas"
+    "desc": "Releases: 7 (1983–2022). Subgenres: ethereal, darkwave, world darkwave. Types: ep, album. Notes: 4AD duo; ritual, ancient-modern gloom. Cathedralic; DJ interludes.; 4AD duo; ritual, ancient-modern gloom. Goth-scene essential.; 4AD duo; ritual, ancient-modern gloom. Neoclassical turn; canon.; 4AD duo; ritual, ancient-modern gloom. Post-punk-inflected debut.; 4AD legends; late-era return embraced by goth listeners. Return after long hiatus.; 4AD legends; touring era continued; catalog re-emp…"
   },
   {
     "id": "deine-lakaien",
     "name": "Deine Lakaien",
     "aka": [],
     "styles": [
-      "darkwave, electronic"
+      "darkwave",
+      "electronic"
     ],
     "era": [
       "1990s",
@@ -955,8 +987,9 @@
     "name": "Diary of Dreams",
     "aka": [],
     "styles": [
-      "darkwave, goth",
-      "darkwave, gothic"
+      "darkwave",
+      "gothic",
+      "goth"
     ],
     "era": [
       "1990s",
@@ -968,7 +1001,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 7 (1994–2009). Subgenres: darkwave, goth, darkwave, gothic. Types: album, single. Notes: German darkwave; introspective and club-friendly cuts. Club-favored single.; German darkwave; introspective and club-friendly cuts. Debut LP.; German darkwave; introspective and club-friendly cuts. Refined songwriting.; German darkwave; poetic lyrics and club cuts. Breakthrough to wider scene.; German darkwave; poetic lyrics and club cuts. Harsh-tinged companion.; German darkwave; poetic lyrics an"
+    "desc": "Releases: 7 (1994–2009). Subgenres: darkwave, gothic, goth. Types: album, single. Notes: German darkwave; introspective and club-friendly cuts. Club-favored single.; German darkwave; introspective and club-friendly cuts. Debut LP.; German darkwave; introspective and club-friendly cuts. Refined songwriting.; German darkwave; poetic lyrics and club cuts. Breakthrough to wider scene.; German darkwave; poetic lyrics and club cuts. Harsh-tinged companion.; German darkwave; poetic lyrics…"
   },
   {
     "id": "dif-juz",
@@ -992,7 +1025,8 @@
     "name": "Drab Majesty",
     "aka": [],
     "styles": [
-      "darkwave, ethereal post-punk"
+      "darkwave",
+      "ethereal post-punk"
     ],
     "era": [
       "2010s",
@@ -1046,7 +1080,8 @@
     "name": "Edge of Dawn",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "2000s"
@@ -1080,8 +1115,8 @@
     "name": "Emma Ruth Rundle",
     "aka": [],
     "styles": [
-      "dark folk (adj.)",
-      "doomgaze, dark folk (adj.)"
+      "doomgaze",
+      "dark folk (adj.)"
     ],
     "era": [
       "2010s",
@@ -1093,14 +1128,15 @@
       "ep"
     ],
     "url": "",
-    "desc": "Releases: 3 (2016–2021). Subgenres: dark folk (adj.), doomgaze, dark folk (adj.). Types: album, ep. Notes: Singer-songwriter adjacent; goth audiences adopted it.; Singer-songwriter with goth-scene pull. Sparse, haunting; DJs use for set mood.; Sparse and haunting; mood-setting for DJs."
+    "desc": "Releases: 3 (2016–2021). Subgenres: doomgaze, dark folk (adj.). Types: album, ep. Notes: Singer-songwriter adjacent; goth audiences adopted it.; Singer-songwriter with goth-scene pull. Sparse, haunting; DJs use for set mood.; Sparse and haunting; mood-setting for DJs."
   },
   {
     "id": "emma-ruth-rundle-thou",
     "name": "Emma Ruth Rundle & Thou",
     "aka": [],
     "styles": [
-      "doomgaze, dark folk (adj.)"
+      "doomgaze",
+      "dark folk (adj.)"
     ],
     "era": [
       "2020s"
@@ -1135,8 +1171,9 @@
     "name": "FGFC820",
     "aka": [],
     "styles": [
-      "harsh ebm",
-      "harsh electro, ebm"
+      "harsh electro",
+      "ebm",
+      "harsh ebm"
     ],
     "era": [
       "2010s",
@@ -1147,14 +1184,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2011–2021). Subgenres: harsh ebm, harsh electro, ebm. Types: album. Notes: Scene footnote; included for completeness.; US harsh electro with militaristic aesthetic."
+    "desc": "Releases: 2 (2011–2021). Subgenres: harsh electro, ebm, harsh ebm. Types: album. Notes: Scene footnote; included for completeness.; US harsh electro with militaristic aesthetic."
   },
   {
     "id": "faith-and-the-muse",
     "name": "Faith and the Muse",
     "aka": [],
     "styles": [
-      "darkwave, neoclassical"
+      "darkwave",
+      "neoclassical"
     ],
     "era": [
       "1990s"
@@ -1171,7 +1209,8 @@
     "name": "Feindflug",
     "aka": [],
     "styles": [
-      "dark electro, power noise"
+      "dark electro",
+      "power noise"
     ],
     "era": [
       "2000s"
@@ -1225,8 +1264,8 @@
     "name": "Front Line Assembly",
     "aka": [],
     "styles": [
-      "ebm, industrial",
-      "industrial"
+      "industrial",
+      "ebm"
     ],
     "era": [
       "1980s",
@@ -1238,14 +1277,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 6 (1989–1995). Subgenres: ebm, industrial, industrial. Types: album, single. Notes: Canadian EBM/industrial mainstay; big US club presence. Cyber-dark classic.; Canadian EBM/industrial mainstay; big US club presence. EBM milestone; club favorite.; Canadian EBM/industrial mainstay; big US club presence. Guitar/EBM hybrid that crossed over.; Canadian EBM/industrial mainstay; big US club presence. Sharpened late-90s industrial sound.; Canadian EBM/industrial mainstay; big US club pr"
+    "desc": "Releases: 6 (1989–1995). Subgenres: industrial, ebm. Types: album, single. Notes: Canadian EBM/industrial mainstay; big US club presence. Cyber-dark classic.; Canadian EBM/industrial mainstay; big US club presence. EBM milestone; club favorite.; Canadian EBM/industrial mainstay; big US club presence. Guitar/EBM hybrid that crossed over.; Canadian EBM/industrial mainstay; big US club presence. Sharpened late-90s industrial sound.; Canadian EBM/industrial mainstay; big US club…"
   },
   {
     "id": "frozen-plasma",
     "name": "Frozen Plasma",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "2000s",
@@ -1264,7 +1304,8 @@
     "name": "Funker Vogt",
     "aka": [],
     "styles": [
-      "ebm, harsh electro"
+      "ebm",
+      "harsh electro"
     ],
     "era": [
       "2000s"
@@ -1298,8 +1339,9 @@
     "name": "Gary Numan",
     "aka": [],
     "styles": [
-      "industrial rock, dark synth",
-      "industrial, dark synth"
+      "industrial",
+      "dark synth",
+      "industrial rock"
     ],
     "era": [
       "1990s",
@@ -1310,7 +1352,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (1994–2006). Subgenres: industrial rock, dark synth, industrial, dark synth. Types: album. Notes: UK synth icon’s 2000s industrial era (continuity tag from 90s). Dark, heavy comeback—scene embraced it.; UK synth icon’s 2000s industrial era (continuity tag from 90s). Further industrial heft.; UK synth icon’s 90s dark-industrial era (continuity from 70s/80s). Further refined dark industrial sound.; UK synth icon’s 90s dark-industrial era (continuity from 70s/80s). Marked his goth/industrial rena"
+    "desc": "Releases: 4 (1994–2006). Subgenres: industrial, dark synth, industrial rock. Types: album. Notes: UK synth icon’s 2000s industrial era (continuity tag from 90s). Dark, heavy comeback—scene embraced it.; UK synth icon’s 2000s industrial era (continuity tag from 90s). Further industrial heft.; UK synth icon’s 90s dark-industrial era (continuity from 70s/80s). Further refined dark industrial sound.; UK synth icon’s 90s dark-industrial era (continuity from 70s/80s). Marked his goth/industrial r…"
   },
   {
     "id": "gene-loves-jezebel",
@@ -1353,7 +1395,8 @@
     "name": "Grave Pleasures",
     "aka": [],
     "styles": [
-      "post-punk, goth rock"
+      "post-punk",
+      "goth rock"
     ],
     "era": [
       "2010s"
@@ -1370,7 +1413,8 @@
     "name": "Grendel",
     "aka": [],
     "styles": [
-      "aggrotech, harsh ebm"
+      "aggrotech",
+      "harsh ebm"
     ],
     "era": [
       "2000s",
@@ -1379,11 +1423,11 @@
     ],
     "region": "Rotterdam, Netherlands",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (2005–2020). Subgenres: aggrotech, harsh ebm. Types: album, ep. Notes: Deluxe kept tracks in circulation.; Dutch act; gritty aggrotech with big 12\"s. Floor-filling EP.; Dutch act; gritty aggrotech with big 12\"s. Signature LP; ‘Soilbleed’ era.; Dutch act; sleek, hard club tracks persist. Polished late-2010s entry.; Dutch act; sleek, hard club tracks persist. Signature 2010s LP; title track spun often."
+    "desc": "Releases: 5 (2005–2020). Subgenres: aggrotech, harsh ebm. Types: ep, album. Notes: Deluxe kept tracks in circulation.; Dutch act; gritty aggrotech with big 12\"s. Floor-filling EP.; Dutch act; gritty aggrotech with big 12\"s. Signature LP; ‘Soilbleed’ era.; Dutch act; sleek, hard club tracks persist. Polished late-2010s entry.; Dutch act; sleek, hard club tracks persist. Signature 2010s LP; title track spun often."
   },
   {
     "id": "health",
@@ -1444,8 +1488,10 @@
     "name": "Hante.",
     "aka": [],
     "styles": [
-      "dark synth, coldwave",
-      "minimal synth, darkwave"
+      "minimal synth",
+      "darkwave",
+      "dark synth",
+      "coldwave"
     ],
     "era": [
       "2010s",
@@ -1456,14 +1502,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 8 (2014–2021). Subgenres: dark synth, coldwave, minimal synth, darkwave. Types: album. Notes: Atmospheric minimal wave; club traction.; Dark synthwave beloved in goth sets.; Debut; moody, cinematic cuts.; French dark synth; steady 2020s run. Polished dark synth.; French dark synth; widely adopted by DJs.; Late-decade highlight; collaborations expanded reach.; Mid-decade standout; club presence.; Parisian minimal synth; scene breakthrough."
+    "desc": "Releases: 8 (2014–2021). Subgenres: minimal synth, darkwave, dark synth, coldwave. Types: album. Notes: Atmospheric minimal wave; club traction.; Dark synthwave beloved in goth sets.; Debut; moody, cinematic cuts.; French dark synth; steady 2020s run. Polished dark synth.; French dark synth; widely adopted by DJs.; Late-decade highlight; collaborations expanded reach.; Mid-decade standout; club presence.; Parisian minimal synth; scene breakthrough."
   },
   {
     "id": "haujobb",
     "name": "Haujobb",
     "aka": [],
     "styles": [
-      "industrial, idm-tinged ebm"
+      "industrial",
+      "idm-tinged ebm"
     ],
     "era": [
       "1990s"
@@ -1492,14 +1539,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (2001–2022). Subgenres: harsh electro. Types: album. Notes: Mexican dark electro duo; ferocious live reputation. Hard-edged, dancefloor-aimed.; Mexican dark electro duo; ferocious live reputation. Spanish-language aggression; global club staple.; Mexican duo; ferocious productions & live shows. Aggressive return; global club staple.; Mexican duo; ferocious productions & live shows. Dark electronics; club cuts retained.; Mexican duo; ferocious productions &"
+    "desc": "Releases: 6 (2001–2022). Subgenres: harsh electro. Types: album. Notes: Mexican dark electro duo; ferocious live reputation. Hard-edged, dancefloor-aimed.; Mexican dark electro duo; ferocious live reputation. Spanish-language aggression; global club staple.; Mexican duo; ferocious productions & live shows. Aggressive return; global club staple.; Mexican duo; ferocious productions & live shows. Dark electronics; club cuts retained.; Mexican duo; ferocious production…"
   },
   {
     "id": "house-of-harm",
     "name": "House of Harm",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2020s"
@@ -1516,7 +1564,8 @@
     "name": "I:Scintilla",
     "aka": [],
     "styles": [
-      "industrial rock, electro-goth"
+      "industrial rock",
+      "electro-goth"
     ],
     "era": [
       "2000s"
@@ -1533,7 +1582,8 @@
     "name": "IAMX",
     "aka": [],
     "styles": [
-      "dark pop, electro (adj.)"
+      "dark pop",
+      "electro (adj.)"
     ],
     "era": [
       "2000s",
@@ -1551,8 +1601,9 @@
     "name": "ISON",
     "aka": [],
     "styles": [
-      "ethereal shoegaze (adj.)",
-      "shoegaze, ethereal doom (adj.)"
+      "shoegaze",
+      "ethereal doom (adj.)",
+      "ethereal shoegaze (adj.)"
     ],
     "era": [
       "2020s"
@@ -1562,14 +1613,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2021). Subgenres: ethereal shoegaze (adj.), shoegaze, ethereal doom (adj.). Types: album. Notes: Astral, ethereal heaviness; adjacent sets.; Atmospheric project; goth-adjacent embrace."
+    "desc": "Releases: 2 (2021). Subgenres: shoegaze, ethereal doom (adj.), ethereal shoegaze (adj.). Types: album. Notes: Astral, ethereal heaviness; adjacent sets.; Atmospheric project; goth-adjacent embrace."
   },
   {
     "id": "icon-of-coil",
     "name": "Icon of Coil",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "1990s",
@@ -1577,18 +1629,19 @@
     ],
     "region": "Oslo, Norway",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (1999–2004). Subgenres: futurepop, ebm. Types: album, single. Notes: Norwegian futurepop (members from Apop scene); seeds in late-90s. Late-90s single foreshadowing 2000s rise.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop scene. Bigger hooks; US festival favorite.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop scene. Debut LP; club adoption was immediate.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop scene"
+    "desc": "Releases: 4 (1999–2004). Subgenres: futurepop, ebm. Types: single, album. Notes: Norwegian futurepop (members from Apop scene); seeds in late-90s. Late-90s single foreshadowing 2000s rise.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop scene. Bigger hooks; US festival favorite.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop scene. Debut LP; club adoption was immediate.; Norwegian trio (R. Söderberg, S. Bråten, A. Grøn) linked to Apop sc…"
   },
   {
     "id": "iggy-pop",
     "name": "Iggy Pop",
     "aka": [],
     "styles": [
-      "proto-goth, post-punk (adj.)"
+      "proto-goth",
+      "post-punk (adj.)"
     ],
     "era": [
       "1970s"
@@ -1605,7 +1658,8 @@
     "name": "Imperative Reaction",
     "aka": [],
     "styles": [
-      "industrial, ebm"
+      "industrial",
+      "ebm"
     ],
     "era": [
       "2000s"
@@ -1623,7 +1677,8 @@
     "name": "In Strict Confidence",
     "aka": [],
     "styles": [
-      "dark electro, ebm"
+      "dark electro",
+      "ebm"
     ],
     "era": [
       "1990s"
@@ -1657,7 +1712,8 @@
     "name": "Isotropía",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth"
+      "darkwave",
+      "minimal synth"
     ],
     "era": [
       "2020s"
@@ -1699,20 +1755,21 @@
     ],
     "region": "Manchester, United Kingdom",
     "tags": [
-      "album",
       "ep",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1978–1980). Subgenres: post-punk (core-adj.). Types: album, ep, single. Notes: Foundational band for goth nights and aesthetics. Club staple; formative.; Foundational band for goth nights and aesthetics. Early statement; scene canon.; Foundational band for goth nights and aesthetics. Monolith of post-punk gloom.; Foundational to goth nights and aesthetics. Club anthem; perennial.; Foundational to goth nights and aesthetics. Final LP; towering despair."
+    "desc": "Releases: 5 (1978–1980). Subgenres: post-punk (core-adj.). Types: ep, single, album. Notes: Foundational band for goth nights and aesthetics. Club staple; formative.; Foundational band for goth nights and aesthetics. Early statement; scene canon.; Foundational band for goth nights and aesthetics. Monolith of post-punk gloom.; Foundational to goth nights and aesthetics. Club anthem; perennial.; Foundational to goth nights and aesthetics. Final LP; towering despair."
   },
   {
     "id": "kmfdm",
     "name": "KMFDM",
     "aka": [],
     "styles": [
-      "industrial rock, ebm rock",
-      "industrial, ebm rock"
+      "industrial",
+      "ebm rock",
+      "industrial rock"
     ],
     "era": [
       "1990s",
@@ -1722,11 +1779,11 @@
     ],
     "region": "Hamburg, Germany",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 12 (1993–2022). Subgenres: industrial rock, ebm rock, industrial, ebm rock. Types: album, single. Notes: German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Breakthrough LP in US clubs.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Furious single; alternative club standard.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Late-90s sustained dominance.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Omnipresent"
+    "desc": "Releases: 12 (1993–2022). Subgenres: industrial, ebm rock, industrial rock. Types: single, album. Notes: German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Breakthrough LP in US clubs.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Furious single; alternative club standard.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Late-90s sustained dominance.; German/US crossover; guitar-driven EBM that owned mid-90s dancefloors. Omnipres…"
   },
   {
     "id": "kaelan-mikla",
@@ -1750,7 +1807,8 @@
     "name": "Katatonia",
     "aka": [],
     "styles": [
-      "doom/alt metal (crossover)",
+      "doom",
+      "alt metal (crossover)",
       "gothic metal (crossover)"
     ],
     "era": [
@@ -1762,15 +1820,16 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2012–2023). Subgenres: doom/alt metal (crossover), gothic metal (crossover). Types: album. Notes: Melancholic metal with goth overlap. Atmospheric; some DJ use.; Melancholic metal with goth overlap. Late-2020s continuation.; Melancholic metal; occasional goth night selections.; Swedish doom/alt; darker cuts played at crossover nights."
+    "desc": "Releases: 4 (2012–2023). Subgenres: doom, alt metal (crossover), gothic metal (crossover). Types: album. Notes: Melancholic metal with goth overlap. Atmospheric; some DJ use.; Melancholic metal with goth overlap. Late-2020s continuation.; Melancholic metal; occasional goth night selections.; Swedish doom/alt; darker cuts played at crossover nights."
   },
   {
     "id": "killing-joke",
     "name": "Killing Joke",
     "aka": [],
     "styles": [
-      "post-punk/industrial",
-      "post-punk/proto-industrial"
+      "post-punk",
+      "proto-industrial",
+      "industrial"
     ],
     "era": [
       "1970s",
@@ -1778,20 +1837,21 @@
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1979–1986). Subgenres: post-punk/industrial, post-punk/proto-industrial. Types: album, ep. Notes: Ritual heaviness; proto-industrial pulse. Crossover; ‘Love Like Blood’ era.; Ritual heaviness; proto-industrial pulse. Debut; pounding menace.; Ritual heaviness; proto-industrial pulse. Glossy, still brooding.; Ritual heaviness; proto-industrial pulse. Tribal darkness continues.; Ritual, heavy post-punk with industrial edge. Debut ritual pulse; scene canonical."
+    "desc": "Releases: 5 (1979–1986). Subgenres: post-punk, proto-industrial, industrial. Types: ep, album. Notes: Ritual heaviness; proto-industrial pulse. Crossover; ‘Love Like Blood’ era.; Ritual heaviness; proto-industrial pulse. Debut; pounding menace.; Ritual heaviness; proto-industrial pulse. Glossy, still brooding.; Ritual heaviness; proto-industrial pulse. Tribal darkness continues.; Ritual, heavy post-punk with industrial edge. Debut ritual pulse; scene canonical."
   },
   {
     "id": "king-dude",
     "name": "King Dude",
     "aka": [],
     "styles": [
+      "neofolk",
       "dark folk (adj.)",
-      "dark folk, neofolk (adj.)",
-      "neofolk, dark folk (adj.)"
+      "dark folk",
+      "neofolk (adj.)"
     ],
     "era": [
       "2010s",
@@ -1802,7 +1862,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2013–2022). Subgenres: dark folk (adj.), dark folk, neofolk (adj.), neofolk, dark folk (adj.). Types: album. Notes: Final LP; cult neofolk relevance.; Late-era dark folk; scene-adjacent.; US dark folk; scene-adjacent with select club use. Cult following in dark folk circles."
+    "desc": "Releases: 3 (2013–2022). Subgenres: neofolk, dark folk (adj.), dark folk, neofolk (adj.). Types: album. Notes: Final LP; cult neofolk relevance.; Late-era dark folk; scene-adjacent.; US dark folk; scene-adjacent with select club use. Cult following in dark folk circles."
   },
   {
     "id": "kommunity-fk",
@@ -1826,25 +1886,27 @@
     "name": "Kontravoid",
     "aka": [],
     "styles": [
-      "dark electro, minimal synth"
+      "dark electro",
+      "minimal synth"
     ],
     "era": [
       "2020s"
     ],
     "region": "Toronto, Canada",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2021–2022). Subgenres: dark electro, minimal synth. Types: album, ep. Notes: Canadian dark synth; big 12\" singles. DJ favorite tracks.; Canadian dark synth; big 12\" singles. Moody LP; dancefloor selections.; Expanded DJ utility; kept momentum."
+    "desc": "Releases: 3 (2021–2022). Subgenres: dark electro, minimal synth. Types: ep, album. Notes: Canadian dark synth; big 12\" singles. DJ favorite tracks.; Canadian dark synth; big 12\" singles. Moody LP; dancefloor selections.; Expanded DJ utility; kept momentum."
   },
   {
     "id": "lacrimosa",
     "name": "Lacrimosa",
     "aka": [],
     "styles": [
-      "darkwave, symphonic goth"
+      "darkwave",
+      "symphonic goth"
     ],
     "era": [
       "1990s",
@@ -1874,7 +1936,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (2002–2023). Subgenres: goth metal. Types: album. Notes: Italian gothic metal with broad club appeal. Breakout LP; singles in goth/alt sets.; Italian gothic metal with broad club appeal. Sustained mainstream and scene presence.; Italian gothic metal with club-friendly singles. Alt/goth crossover singles.; Italian gothic metal with club-friendly singles. Darker concept; scene traction.; Italian gothic metal; selective goth club play. Reimagined catalog; "
+    "desc": "Releases: 5 (2002–2023). Subgenres: goth metal. Types: album. Notes: Italian gothic metal with broad club appeal. Breakout LP; singles in goth/alt sets.; Italian gothic metal with broad club appeal. Sustained mainstream and scene presence.; Italian gothic metal with club-friendly singles. Alt/goth crossover singles.; Italian gothic metal with club-friendly singles. Darker concept; scene traction.; Italian gothic metal; selective goth club play. Reimagined catalo…"
   },
   {
     "id": "ladytron",
@@ -1898,7 +1960,8 @@
     "name": "Leaether Strip",
     "aka": [],
     "styles": [
-      "ebm, dark electro"
+      "ebm",
+      "dark electro"
     ],
     "era": [
       "1990s"
@@ -1915,7 +1978,8 @@
     "name": "Lebanon Hanover",
     "aka": [],
     "styles": [
-      "minimal wave, darkwave"
+      "minimal wave",
+      "darkwave"
     ],
     "era": [
       "2010s",
@@ -1927,7 +1991,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 7 (2012–2020). Subgenres: minimal wave, darkwave. Types: album, single. Notes: Binational duo; austere minimal-wave beloved by goth DJs. Cult favorite.; Binational duo; austere minimal-wave beloved by goth DJs. Debut; cold, skeletal sound.; Binational duo; austere minimal-wave beloved by goth DJs. Definitive early LP.; Binational duo; austere minimal-wave beloved by goth DJs. Late-decade entry.; Minimal wave icons; huge club set staples. Modern scene classic.; Scene anthem; "
+    "desc": "Releases: 7 (2012–2020). Subgenres: minimal wave, darkwave. Types: album, single. Notes: Binational duo; austere minimal-wave beloved by goth DJs. Cult favorite.; Binational duo; austere minimal-wave beloved by goth DJs. Debut; cold, skeletal sound.; Binational duo; austere minimal-wave beloved by goth DJs. Definitive early LP.; Binational duo; austere minimal-wave beloved by goth DJs. Late-decade entry.; Minimal wave icons; huge club set staples. Modern scene classic.; Scene anthe…"
   },
   {
     "id": "liaisons-dangereuses",
@@ -1951,45 +2015,48 @@
     "name": "Light Asylum",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth",
-      "darkwave, synthpunk"
+      "darkwave",
+      "minimal synth",
+      "synthpunk"
     ],
     "era": [
       "2010s"
     ],
     "region": "Brooklyn, United States",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2011–2012). Subgenres: darkwave, minimal synth, darkwave, synthpunk. Types: album, ep. Notes: Brooklyn duo; 'Dark Allies' era club staple.; Debut LP; huge influence on 2010s darkwave.; Influential debut; cult status and club play."
+    "desc": "Releases: 3 (2011–2012). Subgenres: darkwave, minimal synth, synthpunk. Types: ep, album. Notes: Brooklyn duo; 'Dark Allies' era club staple.; Debut LP; huge influence on 2010s darkwave.; Influential debut; cult status and club play."
   },
   {
     "id": "linea-aspera",
     "name": "Linea Aspera",
     "aka": [],
     "styles": [
-      "minimal wave, darkwave"
+      "minimal wave",
+      "darkwave"
     ],
     "era": [
       "2010s"
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2012). Subgenres: minimal wave, darkwave. Types: album, ep. Notes: Cult EP companion to their debut.; UK/AUS duo; influential minimal wave for goth DJs. Cult classic; widely spun."
+    "desc": "Releases: 2 (2012). Subgenres: minimal wave, darkwave. Types: ep, album. Notes: Cult EP companion to their debut.; UK/AUS duo; influential minimal wave for goth DJs. Cult classic; widely spun."
   },
   {
     "id": "lingua-ignota",
     "name": "Lingua Ignota",
     "aka": [],
     "styles": [
-      "experimental dark (adj.)",
-      "experimental, dark noise"
+      "experimental",
+      "dark noise",
+      "experimental dark (adj.)"
     ],
     "era": [
       "2010s",
@@ -2000,7 +2067,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2017–2021). Subgenres: experimental dark (adj.), experimental, dark noise. Types: album. Notes: Critically acclaimed; fringe club use.; Harsh industrial/noise; cult influence.; Transgressive dark art; adjacent to goth/industrial audiences. Critically lauded; niche club use."
+    "desc": "Releases: 3 (2017–2021). Subgenres: experimental, dark noise, experimental dark (adj.). Types: album. Notes: Critically acclaimed; fringe club use.; Harsh industrial/noise; cult influence.; Transgressive dark art; adjacent to goth/industrial audiences. Critically lauded; niche club use."
   },
   {
     "id": "london-after-midnight",
@@ -2058,7 +2125,8 @@
     "name": "Lycia",
     "aka": [],
     "styles": [
-      "ethereal, darkwave"
+      "ethereal",
+      "darkwave"
     ],
     "era": [
       "1990s"
@@ -2092,7 +2160,8 @@
     "name": "Malaria!",
     "aka": [],
     "styles": [
-      "coldwave, post-punk"
+      "coldwave",
+      "post-punk"
     ],
     "era": [
       "1980s"
@@ -2109,7 +2178,8 @@
     "name": "Mareux",
     "aka": [],
     "styles": [
-      "dark pop, synth-goth"
+      "dark pop",
+      "synth-goth"
     ],
     "era": [
       "2020s"
@@ -2127,7 +2197,7 @@
     "aka": [],
     "styles": [
       "industrial rock",
-      "industrial rock, gothic rock"
+      "gothic rock"
     ],
     "era": [
       "1990s",
@@ -2141,25 +2211,26 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 12 (1994–2020). Subgenres: industrial rock, industrial rock, gothic rock. Types: album, single. Notes: Cabaret-industrial single used in some sets.; Shock-goth figurehead evolving through the 2010s. Bluesy darkness; DJs picked standouts.; Shock-goth figurehead evolving through the 2010s. Heavier rock-industrial; selective club use.; Shock-goth figurehead evolving through the 2010s. Late-decade; scene-curated tracks.; Shock-goth figurehead of the 90s moving through 2000s shifts. Cabaret-industrial; "
+    "desc": "Releases: 12 (1994–2020). Subgenres: industrial rock, gothic rock. Types: album, single. Notes: Cabaret-industrial single used in some sets.; Shock-goth figurehead evolving through the 2010s. Bluesy darkness; DJs picked standouts.; Shock-goth figurehead evolving through the 2010s. Heavier rock-industrial; selective club use.; Shock-goth figurehead evolving through the 2010s. Late-decade; scene-curated tracks.; Shock-goth figurehead of the 90s moving through 2000s shifts. Cabaret-industria…"
   },
   {
     "id": "melotron",
     "name": "Melotron",
     "aka": [],
     "styles": [
-      "synthpop, ebm"
+      "synthpop",
+      "ebm"
     ],
     "era": [
       "2000s"
     ],
     "region": "Frankfurt, Germany",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2002–2005). Subgenres: synthpop, ebm. Types: album, single. Notes: German synthpop with goth-scene reach."
+    "desc": "Releases: 3 (2002–2005). Subgenres: synthpop, ebm. Types: single, album. Notes: German synthpop with goth-scene reach."
   },
   {
     "id": "minimal-compact",
@@ -2199,14 +2270,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 11 (1988–2021). Subgenres: industrial (late-80s turn), industrial metal. Types: album, single. Notes: Pioneers of US industrial metal; staples in goth/industrial clubs. Anti-war juggernaut; floor-filler.; Pioneers of US industrial metal; staples in goth/industrial clubs. Quintessential industrial-metal LP.; Pioneers of US industrial metal; staples in goth/industrial clubs. Sludgier, less clubby but scene-relevant.; Shift from synthpop to industrial metal late-decade. Club-dominating cuts.; Shift f"
+    "desc": "Releases: 11 (1988–2021). Subgenres: industrial (late-80s turn), industrial metal. Types: album, single. Notes: Pioneers of US industrial metal; staples in goth/industrial clubs. Anti-war juggernaut; floor-filler.; Pioneers of US industrial metal; staples in goth/industrial clubs. Quintessential industrial-metal LP.; Pioneers of US industrial metal; staples in goth/industrial clubs. Sludgier, less clubby but scene-relevant.; Shift from synthpop to industrial metal late-decade. Club-dominating cuts.; Shif…"
   },
   {
     "id": "minuit-machine",
     "name": "Minuit Machine",
     "aka": [],
     "styles": [
-      "darkwave, coldwave"
+      "darkwave",
+      "coldwave"
     ],
     "era": [
       "2010s",
@@ -2255,7 +2327,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1996–2021). Subgenres: gothic metal. Types: album. Notes: Portuguese gothic-metal; continued club-friendly singles. Dark, ritual atmosphere.; Portuguese gothic-metal; continued club-friendly singles. Heavier but still embraced by goth audiences.; Portuguese gothic-metal; ritual mood persists. Accessible, dark LP; club cuts existed.; Portuguese gothic-metal; ritual, melodic darkness. Accessible, dark LP; club cuts existed.; Portuguese metal/goth hybrid; s"
+    "desc": "Releases: 5 (1996–2021). Subgenres: gothic metal. Types: album. Notes: Portuguese gothic-metal; continued club-friendly singles. Dark, ritual atmosphere.; Portuguese gothic-metal; continued club-friendly singles. Heavier but still embraced by goth audiences.; Portuguese gothic-metal; ritual mood persists. Accessible, dark LP; club cuts existed.; Portuguese gothic-metal; ritual, melodic darkness. Accessible, dark LP; club cuts existed.; Portuguese metal/goth hybrid…"
   },
   {
     "id": "my-dying-bride",
@@ -2306,18 +2378,19 @@
     ],
     "region": "Vienna, Austria",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2008–2016). Subgenres: aggrotech. Types: album, single. Notes: Austrian aggrotech; club presence despite controversy. Floor-focused cuts used in harsher sets.; Austrian aggrotech; club presence despite controversy. Niche but persistent.; Austrian aggrotech; late-2000s club presence. DJ weapon for harsher sets.; Austrian aggrotech; late-2000s club presence. Debut album; scene adoption in EU."
+    "desc": "Releases: 4 (2008–2016). Subgenres: aggrotech. Types: single, album. Notes: Austrian aggrotech; club presence despite controversy. Floor-focused cuts used in harsher sets.; Austrian aggrotech; club presence despite controversy. Niche but persistent.; Austrian aggrotech; late-2000s club presence. DJ weapon for harsher sets.; Austrian aggrotech; late-2000s club presence. Debut album; scene adoption in EU."
   },
   {
     "id": "neuroticfish",
     "name": "Neuroticfish",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "2000s",
@@ -2337,7 +2410,8 @@
     "name": "New Order",
     "aka": [],
     "styles": [
-      "synthpop, post-punk (adj.)"
+      "synthpop",
+      "post-punk (adj.)"
     ],
     "era": [
       "1980s",
@@ -2401,12 +2475,12 @@
     ],
     "region": "Cleveland, United States",
     "tags": [
-      "album",
+      "single",
       "ep",
-      "single"
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 15 (1990–2020). Subgenres: industrial rock. Types: album, ep, single. Notes: Crossover singles that still worked in goth/industrial sets.; US industrial-rock anchor; continued mainstream + club impact. Concept LP with club-friendly cuts.; US industrial-rock anchor; continued mainstream + club impact. Free release era; DJs mined darker tracks.; US industrial-rock anchor; continued mainstream + club impact. Harsh, compact statement.; US industrial-rock anchor; continued main"
+    "desc": "Releases: 15 (1990–2020). Subgenres: industrial rock. Types: single, ep, album. Notes: Crossover singles that still worked in goth/industrial sets.; US industrial-rock anchor; continued mainstream + club impact. Concept LP with club-friendly cuts.; US industrial-rock anchor; continued mainstream + club impact. Free release era; DJs mined darker tracks.; US industrial-rock anchor; continued mainstream + club impact. Harsh, compact statement.; US industrial-rock anchor; continued m…"
   },
   {
     "id": "nitzer-ebb",
@@ -2430,7 +2504,8 @@
     "name": "Noisuf-X",
     "aka": [],
     "styles": [
-      "power noise, harsh electro"
+      "power noise",
+      "harsh electro"
     ],
     "era": [
       "2000s",
@@ -2495,7 +2570,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 7 (1993–2020). Subgenres: goth metal. Types: album. Notes: UK gothic-doom pioneers; 2000s resurgence. Electronic touch; crossover appeal.; UK gothic-doom pioneers; 2000s resurgence. Heavier return; scene interest renewed.; UK gothic-doom pioneers; meaningful crossover into goth scenes. Pioneering gothic-doom statement.; UK gothic-doom pioneers; meaningful crossover into goth scenes. Seminal crossover LP.; UK pioneers; dark, melodic 2020s surge. Well-regar"
+    "desc": "Releases: 7 (1993–2020). Subgenres: goth metal. Types: album. Notes: UK gothic-doom pioneers; 2000s resurgence. Electronic touch; crossover appeal.; UK gothic-doom pioneers; 2000s resurgence. Heavier return; scene interest renewed.; UK gothic-doom pioneers; meaningful crossover into goth scenes. Pioneering gothic-doom statement.; UK gothic-doom pioneers; meaningful crossover into goth scenes. Seminal crossover LP.; UK pioneers; dark, melodic 2020s surge. Well-re…"
   },
   {
     "id": "patti-smith",
@@ -2543,18 +2618,19 @@
     ],
     "region": "Oxford, United Kingdom",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (1983–1984). Subgenres: gothic rock. Types: album, ep. Notes: Singles cycle fueling sets.; Underrated UK goth; club-loved deep cuts. Cult classic."
+    "desc": "Releases: 2 (1983–1984). Subgenres: gothic rock. Types: ep, album. Notes: Singles cycle fueling sets.; Underrated UK goth; club-loved deep cuts. Cult classic."
   },
   {
     "id": "portion-control",
     "name": "Portion Control",
     "aka": [],
     "styles": [
-      "industrial, ebm"
+      "industrial",
+      "ebm"
     ],
     "era": [
       "1980s"
@@ -2571,7 +2647,8 @@
     "name": "Project Pitchfork",
     "aka": [],
     "styles": [
-      "ebm, darkwave"
+      "ebm",
+      "darkwave"
     ],
     "era": [
       "1990s"
@@ -2581,15 +2658,17 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1991–1997). Subgenres: ebm, darkwave. Types: album. Notes: German electro-darkwave stalwarts; strong US club presence. Breakthrough; DJ favorite.; German electro-darkwave stalwarts; strong US club presence. Consolidation of style.; German electro-darkwave stalwarts; strong US club presence. Early LP establishing their sound.; German electro-darkwave stalwarts; strong US club presence. Esoteric electro-darkwave.; German electro-darkwave stalwarts; strong U"
+    "desc": "Releases: 5 (1991–1997). Subgenres: ebm, darkwave. Types: album. Notes: German electro-darkwave stalwarts; strong US club presence. Breakthrough; DJ favorite.; German electro-darkwave stalwarts; strong US club presence. Consolidation of style.; German electro-darkwave stalwarts; strong US club presence. Early LP establishing their sound.; German electro-darkwave stalwarts; strong US club presence. Esoteric electro-darkwave.; German electro-darkwave stalwarts; stron…"
   },
   {
     "id": "psyclon-nine",
     "name": "Psyclon Nine",
     "aka": [],
     "styles": [
-      "harsh electro, industrial metal",
-      "harsh industrial, blackened ebm"
+      "harsh electro",
+      "industrial metal",
+      "harsh industrial",
+      "blackened ebm"
     ],
     "era": [
       "2010s",
@@ -2624,7 +2703,8 @@
     "name": "Puerta Negra",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth"
+      "darkwave",
+      "minimal synth"
     ],
     "era": [
       "2020s"
@@ -2641,8 +2721,9 @@
     "name": "Qual",
     "aka": [],
     "styles": [
-      "minimal wave, dark synth",
-      "minimal wave, experimental darkwave"
+      "minimal wave",
+      "experimental darkwave",
+      "dark synth"
     ],
     "era": [
       "2010s",
@@ -2654,7 +2735,7 @@
       "ep"
     ],
     "url": "",
-    "desc": "Releases: 2 (2015–2020). Subgenres: minimal wave, dark synth, minimal wave, experimental darkwave. Types: album, ep. Notes: Bleak solo project from Lebanon Hanover member.; Lebanon Hanover offshoot; niche but embraced."
+    "desc": "Releases: 2 (2015–2020). Subgenres: minimal wave, experimental darkwave, dark synth. Types: album, ep. Notes: Bleak solo project from Lebanon Hanover member.; Lebanon Hanover offshoot; niche but embraced."
   },
   {
     "id": "red-lorry-yellow-lorry",
@@ -2678,25 +2759,27 @@
     "name": "Riki",
     "aka": [],
     "styles": [
-      "dark pop, synth-goth"
+      "dark pop",
+      "synth-goth"
     ],
     "era": [
       "2020s"
     ],
     "region": "Los Angeles, United States",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2020–2021). Subgenres: dark pop, synth-goth. Types: album, single. Notes: DJ-favored single from debut era.; LA artist; elegant, melodic dark synth. Debut; club-embraced singles.; LA artist; elegant, melodic dark synth. Follow-up; maintained momentum."
+    "desc": "Releases: 3 (2020–2021). Subgenres: dark pop, synth-goth. Types: single, album. Notes: DJ-favored single from debut era.; LA artist; elegant, melodic dark synth. Debut; club-embraced singles.; LA artist; elegant, melodic dark synth. Follow-up; maintained momentum."
   },
   {
     "id": "ritual-howls",
     "name": "Ritual Howls",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s"
@@ -2713,7 +2796,8 @@
     "name": "Rome",
     "aka": [],
     "styles": [
-      "neofolk, darkwave"
+      "neofolk",
+      "darkwave"
     ],
     "era": [
       "2000s",
@@ -2748,7 +2832,8 @@
     "name": "Rotersand",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "2000s",
@@ -2761,7 +2846,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 7 (2003–2021). Subgenres: futurepop, ebm. Types: album, single. Notes: Anthemic production; festival-tested.; German trio; big-room production continues. Carried over into early-2010s.; German trio; big-room production continues. Late-decade satirical edge.; German trio; big-room production with dark hooks. Anthemic, festival-tested tracks.; German trio; big-room production with dark hooks. Debut LP with immediate club traction.; German trio; big-room production with"
+    "desc": "Releases: 7 (2003–2021). Subgenres: futurepop, ebm. Types: album, single. Notes: Anthemic production; festival-tested.; German trio; big-room production continues. Carried over into early-2010s.; German trio; big-room production continues. Late-decade satirical edge.; German trio; big-room production with dark hooks. Anthemic, festival-tested tracks.; German trio; big-room production with dark hooks. Debut LP with immediate club traction.; German trio; big-room production w…"
   },
   {
     "id": "roxy-music",
@@ -2803,26 +2888,29 @@
     "aka": [],
     "styles": [
       "ethereal dark pop",
-      "ethereal wave, dream pop"
+      "ethereal wave",
+      "dream pop"
     ],
     "era": [
       "2020s"
     ],
     "region": "Los Angeles, United States",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2020–2022). Subgenres: ethereal dark pop, ethereal wave, dream pop. Types: album, single. Notes: Critically praised; goth-scene overlap.; Single that cemented club interest.; US ethereal; club-selected single."
+    "desc": "Releases: 3 (2020–2022). Subgenres: ethereal dark pop, ethereal wave, dream pop. Types: single, album. Notes: Critically praised; goth-scene overlap.; Single that cemented club interest.; US ethereal; club-selected single."
   },
   {
     "id": "sacred-skin",
     "name": "Sacred Skin",
     "aka": [],
     "styles": [
-      "dark pop, synth-goth",
-      "dark synth, synthpop (adj.)"
+      "dark synth",
+      "synthpop (adj.)",
+      "dark pop",
+      "synth-goth"
     ],
     "era": [
       "2020s"
@@ -2832,14 +2920,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2021–2023). Subgenres: dark pop, synth-goth, dark synth, synthpop (adj.). Types: album. Notes: LA duo; sleek 80s-indebted dark pop.; Retro dark synth with goth overlap."
+    "desc": "Releases: 2 (2021–2023). Subgenres: dark synth, synthpop (adj.), dark pop, synth-goth. Types: album. Notes: LA duo; sleek 80s-indebted dark pop.; Retro dark synth with goth overlap."
   },
   {
     "id": "sad-lovers-giants",
     "name": "Sad Lovers & Giants",
     "aka": [],
     "styles": [
-      "post-punk, dream-goth"
+      "post-punk",
+      "dream-goth"
     ],
     "era": [
       "1980s"
@@ -2856,7 +2945,8 @@
     "name": "Seabound",
     "aka": [],
     "styles": [
-      "futurepop, dark synth"
+      "futurepop",
+      "dark synth"
     ],
     "era": [
       "2000s",
@@ -2876,8 +2966,8 @@
     "name": "Selofan",
     "aka": [],
     "styles": [
-      "darkwave, minimal synth",
-      "minimal synth, darkwave"
+      "minimal synth",
+      "darkwave"
     ],
     "era": [
       "2010s",
@@ -2888,14 +2978,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 7 (2013–2024). Subgenres: darkwave, minimal synth, minimal synth, darkwave. Types: album. Notes: Greek duo; austere, romantic menace.; Greek duo; continued austere romanticism. Late-2020s highlight.; Greek duo; continued austere romanticism. Well-regarded; DJs embraced singles.; Greek duo; dark synth revival.; Late-2010s high point.; Late-decade staple; DJs embraced.; Moody minimal wave, globally adopted."
+    "desc": "Releases: 7 (2013–2024). Subgenres: minimal synth, darkwave. Types: album. Notes: Greek duo; austere, romantic menace.; Greek duo; continued austere romanticism. Late-2020s highlight.; Greek duo; continued austere romanticism. Well-regarded; DJs embraced singles.; Greek duo; dark synth revival.; Late-2010s high point.; Late-decade staple; DJs embraced.; Moody minimal wave, globally adopted."
   },
   {
     "id": "sex-gang-children",
     "name": "Sex Gang Children",
     "aka": [],
     "styles": [
-      "gothic rock, batcave"
+      "gothic rock",
+      "batcave"
     ],
     "era": [
       "1980s"
@@ -2912,7 +3003,8 @@
     "name": "She Past Away",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s",
@@ -2931,7 +3023,8 @@
     "name": "She Wants Revenge",
     "aka": [],
     "styles": [
-      "darkwave (adj.), post-punk"
+      "darkwave (adj.)",
+      "post-punk"
     ],
     "era": [
       "2000s"
@@ -2949,7 +3042,7 @@
     "aka": [],
     "styles": [
       "harsh electro",
-      "harsh electro, industrial"
+      "industrial"
     ],
     "era": [
       "2010s",
@@ -2960,7 +3053,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2011–2021). Subgenres: harsh electro, harsh electro, industrial. Types: album. Notes: Australian aggrotech with cinematic touches.; Australian harsh electro; club-adopted cuts.; Australian harsh electro; polished production.; Expanded sonic palette; DJs picked club tracks."
+    "desc": "Releases: 4 (2011–2021). Subgenres: harsh electro, industrial. Types: album. Notes: Australian aggrotech with cinematic touches.; Australian harsh electro; club-adopted cuts.; Australian harsh electro; polished production.; Expanded sonic palette; DJs picked club tracks."
   },
   {
     "id": "simple-minds",
@@ -2984,10 +3077,10 @@
     "name": "Siouxsie and the Banshees",
     "aka": [],
     "styles": [
-      "gothic pop",
+      "post-punk",
+      "goth",
       "gothic rock",
-      "gothic rock, post-punk",
-      "post-punk, goth"
+      "gothic pop"
     ],
     "era": [
       "1970s",
@@ -2995,11 +3088,11 @@
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 12 (1978–1988). Subgenres: gothic pop, gothic rock, gothic rock, post-punk, post-punk, goth. Types: album, single. Notes: Bleak, ritualistic pop.; Essential bridge from punk to goth. Art-rock darkness persists.; Essential bridge from punk to goth. Baroque psychedelia; dark.; Essential bridge from punk to goth. Bleaker, ritualistic tone.; Essential bridge from punk to goth. Debut; stark, cold atmosphere.; Essential bridge from punk to goth. Glossy, windswept gloom.; Essential bridge from punk to goth. John McGeoch era"
+    "desc": "Releases: 12 (1978–1988). Subgenres: post-punk, goth, gothic rock, gothic pop. Types: single, album. Notes: Bleak, ritualistic pop.; Essential bridge from punk to goth. Art-rock darkness persists.; Essential bridge from punk to goth. Baroque psychedelia; dark.; Essential bridge from punk to goth. Bleaker, ritualistic tone.; Essential bridge from punk to goth. Debut; stark, cold atmosphere.; Essential bridge from punk to goth. Glossy, windswept gloom.; Essential bridge from punk to goth. John McGeoch …"
   },
   {
     "id": "skeletal-family",
@@ -3023,7 +3116,8 @@
     "name": "Skeleton Hands",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s"
@@ -3051,14 +3145,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (1985–1996). Subgenres: industrial. Types: album. Notes: Canadian industrial architects; dark aesthetics central to goth nights. Dense and punishing; revered.; Canadian industrial architects; dark aesthetics central to goth nights. Troubled production but influential.; Canadian industrial architects; dark aesthetics. Club staple.; Canadian industrial architects; dark aesthetics. Electro-horror beginnings.; Canadian industrial architects; dark aesthetics"
+    "desc": "Releases: 6 (1985–1996). Subgenres: industrial. Types: album. Notes: Canadian industrial architects; dark aesthetics central to goth nights. Dense and punishing; revered.; Canadian industrial architects; dark aesthetics central to goth nights. Troubled production but influential.; Canadian industrial architects; dark aesthetics. Club staple.; Canadian industrial architects; dark aesthetics. Electro-horror beginnings.; Canadian industrial architects; dark aesthet…"
   },
   {
     "id": "smashing-pumpkins",
     "name": "Smashing Pumpkins",
     "aka": [],
     "styles": [
-      "alt (adj.), dark-leaning"
+      "alt (adj.)",
+      "dark-leaning"
     ],
     "era": [
       "1990s"
@@ -3075,7 +3170,8 @@
     "name": "Soft Kill",
     "aka": [],
     "styles": [
-      "post-punk, darkwave"
+      "post-punk",
+      "darkwave"
     ],
     "era": [
       "2010s"
@@ -3092,7 +3188,8 @@
     "name": "Solar Fake",
     "aka": [],
     "styles": [
-      "electro, dark synth"
+      "electro",
+      "dark synth"
     ],
     "era": [
       "2000s",
@@ -3104,7 +3201,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (2008–2024). Subgenres: electro, dark synth. Types: album. Notes: German dark synth project; big 2020s records. High-energy singles; US club traction.; German dark synth project; big 2020s records. Late-decade continuation.; German dark synth project; moody hooks for clubs. Breakout LP in US clubs.; German dark synth project; moody hooks for clubs. Expanded presence.; German dark synth project; moody hooks for clubs. Late-decade club play.; Sven Friedrich (Zerap"
+    "desc": "Releases: 6 (2008–2024). Subgenres: electro, dark synth. Types: album. Notes: German dark synth project; big 2020s records. High-energy singles; US club traction.; German dark synth project; big 2020s records. Late-decade continuation.; German dark synth project; moody hooks for clubs. Breakout LP in US clubs.; German dark synth project; moody hooks for clubs. Expanded presence.; German dark synth project; moody hooks for clubs. Late-decade club play.; Sven Friedrich (Ze…"
   },
   {
     "id": "southern-death-cult",
@@ -3128,8 +3225,9 @@
     "name": "Soviet Soviet",
     "aka": [],
     "styles": [
-      "post-punk, coldwave",
-      "post-punk, darkwave"
+      "post-punk",
+      "coldwave",
+      "darkwave"
     ],
     "era": [
       "2010s"
@@ -3139,7 +3237,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2013–2016). Subgenres: post-punk, coldwave, post-punk, darkwave. Types: album. Notes: Expanded international profile.; Italian trio; post-punk revival embraced in goth clubs.; Italian trio; sharp, rhythmic darkness."
+    "desc": "Releases: 3 (2013–2016). Subgenres: post-punk, coldwave, darkwave. Types: album. Notes: Expanded international profile.; Italian trio; post-punk revival embraced in goth clubs.; Italian trio; sharp, rhythmic darkness."
   },
   {
     "id": "specimen",
@@ -3163,8 +3261,9 @@
     "name": "Street Sects",
     "aka": [],
     "styles": [
-      "industrial punk (adj.)",
-      "industrial punk, noise (adj.)"
+      "industrial punk",
+      "noise (adj.)",
+      "industrial punk (adj.)"
     ],
     "era": [
       "2010s",
@@ -3176,14 +3275,15 @@
       "ep"
     ],
     "url": "",
-    "desc": "Releases: 3 (2016–2021). Subgenres: industrial punk (adj.), industrial punk, noise (adj.). Types: album, ep. Notes: Austin duo; niche but relevant in heavier corners.; Harsh industrial punk; cult club following.; Harsh, confrontational; adopted by the heavier corners."
+    "desc": "Releases: 3 (2016–2021). Subgenres: industrial punk, noise (adj.), industrial punk (adj.). Types: album, ep. Notes: Austin duo; niche but relevant in heavier corners.; Harsh industrial punk; cult club following.; Harsh, confrontational; adopted by the heavier corners."
   },
   {
     "id": "stromkern",
     "name": "Stromkern",
     "aka": [],
     "styles": [
-      "ebm, industrial hip-hop (adj.)"
+      "ebm",
+      "industrial hip-hop (adj.)"
     ],
     "era": [
       "2000s"
@@ -3200,8 +3300,9 @@
     "name": "Suicide Commando",
     "aka": [],
     "styles": [
-      "ebm, dark electro",
-      "harsh electro, ebm"
+      "ebm",
+      "dark electro",
+      "harsh electro"
     ],
     "era": [
       "1990s",
@@ -3215,7 +3316,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 9 (1994–2023). Subgenres: ebm, dark electro, harsh electro, ebm. Types: album, single. Notes: Belgian harsh electro mainstay dominating 2000s floors. Concept LP; clubs hammered the singles.; Belgian harsh electro mainstay dominating 2000s floors. Follow-up with relentless singles.; Belgian harsh electro mainstay dominating 2000s floors. Seminal harsh-electro LP; huge club impact.; Belgian harsh electro; relentless 2010s singles. Hard-edged; strong club rotation.; Belgian harsh electro; rel"
+    "desc": "Releases: 9 (1994–2023). Subgenres: ebm, dark electro, harsh electro. Types: album, single. Notes: Belgian harsh electro mainstay dominating 2000s floors. Concept LP; clubs hammered the singles.; Belgian harsh electro mainstay dominating 2000s floors. Follow-up with relentless singles.; Belgian harsh electro mainstay dominating 2000s floors. Seminal harsh-electro LP; huge club impact.; Belgian harsh electro; relentless 2010s singles. Hard-edged; strong club rotation.; Belgian harsh electro; …"
   },
   {
     "id": "super-heroines",
@@ -3239,7 +3340,8 @@
     "name": "Switchblade Symphony",
     "aka": [],
     "styles": [
-      "darkwave, goth"
+      "darkwave",
+      "goth"
     ],
     "era": [
       "1990s"
@@ -3256,7 +3358,8 @@
     "name": "System Syn",
     "aka": [],
     "styles": [
-      "dark electro, industrial"
+      "dark electro",
+      "industrial"
     ],
     "era": [
       "2000s"
@@ -3290,7 +3393,8 @@
     "name": "TR/ST",
     "aka": [],
     "styles": [
-      "dark synth, synthpop (adj.)"
+      "dark synth",
+      "synthpop (adj.)"
     ],
     "era": [
       "2010s"
@@ -3341,8 +3445,10 @@
     "name": "Tempers",
     "aka": [],
     "styles": [
-      "darkwave, synth noir",
-      "minimal wave, synthpop"
+      "minimal wave",
+      "synthpop",
+      "darkwave",
+      "synth noir"
     ],
     "era": [
       "2010s",
@@ -3353,14 +3459,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (2015–2021). Subgenres: darkwave, synth noir, minimal wave, synthpop. Types: album. Notes: NYC duo; icy electronics with goth appeal.; NYC duo; nocturnal electronics embraced by DJs.; Nocturnal electronics; strong club support."
+    "desc": "Releases: 3 (2015–2021). Subgenres: minimal wave, synthpop, darkwave, synth noir. Types: album. Notes: NYC duo; icy electronics with goth appeal.; NYC duo; nocturnal electronics embraced by DJs.; Nocturnal electronics; strong club support."
   },
   {
     "id": "the-birthday-massacre",
     "name": "The Birthday Massacre",
     "aka": [],
     "styles": [
-      "dark pop, goth-adjacent"
+      "dark pop",
+      "goth-adjacent"
     ],
     "era": [
       "2000s"
@@ -3401,12 +3508,12 @@
     ],
     "region": "Manchester, United Kingdom",
     "tags": [
+      "single",
       "album",
-      "ep",
-      "single"
+      "ep"
     ],
     "url": "",
-    "desc": "Releases: 5 (1982–1986). Subgenres: post-punk (core-adj.). Types: album, ep, single. Notes: 12\" culture around LP era.; Atmospheric, melancholic; heavily adopted by goths. Cathedral guitars; adored.; Atmospheric, melancholic; heavily adopted by goths. Deepening the mood.; Atmospheric, melancholic; heavily adopted by goths. Seminal LP.; Pivotal single; scene classic."
+    "desc": "Releases: 5 (1982–1986). Subgenres: post-punk (core-adj.). Types: single, album, ep. Notes: 12\" culture around LP era.; Atmospheric, melancholic; heavily adopted by goths. Cathedral guitars; adored.; Atmospheric, melancholic; heavily adopted by goths. Deepening the mood.; Atmospheric, melancholic; heavily adopted by goths. Seminal LP.; Pivotal single; scene classic."
   },
   {
     "id": "the-comsat-angels",
@@ -3430,7 +3537,8 @@
     "name": "The Crüxshadows",
     "aka": [],
     "styles": [
-      "darkwave, synth-goth"
+      "darkwave",
+      "synth-goth"
     ],
     "era": [
       "2000s"
@@ -3465,11 +3573,11 @@
     "name": "The Cure",
     "aka": [],
     "styles": [
-      "gothic pop",
+      "post-punk (core-adj.)",
       "gothic rock",
-      "gothic rock, alt",
-      "gothic rock, post-punk",
-      "post-punk (core-adj.)"
+      "post-punk",
+      "gothic pop",
+      "alt"
     ],
     "era": [
       "1970s",
@@ -3482,7 +3590,7 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 15 (1979–1996). Subgenres: gothic pop, gothic rock, gothic rock, alt, gothic rock, post-punk, post-punk (core-adj.). Types: album, single. Notes: Batcave staple single.; DJs pick for color in goth sets.; Early stark single; goth-scene staple.; Icy minimalism; club rotation.; Key goth-scene band; darker early work begins here. Minimal debut; scene selects darker tracks.; Key goth-scene band; darker early work begins here. US/Int'l version; canon songs.; UK canon with deep goth adoption. Cathedral-sized goth canon.; UK canon with deep goth ad"
+    "desc": "Releases: 15 (1979–1996). Subgenres: post-punk (core-adj.), gothic rock, post-punk, gothic pop, alt. Types: album, single. Notes: Batcave staple single.; DJs pick for color in goth sets.; Early stark single; goth-scene staple.; Icy minimalism; club rotation.; Key goth-scene band; darker early work begins here. Minimal debut; scene selects darker tracks.; Key goth-scene band; darker early work begins here. US/Int'l version; canon songs.; UK canon with deep goth adoption. Cathedral-sized goth canon.; UK canon with deep goth…"
   },
   {
     "id": "the-damned",
@@ -3523,7 +3631,8 @@
     "name": "The Eden House",
     "aka": [],
     "styles": [
-      "goth rock, ethereal"
+      "goth rock",
+      "ethereal"
     ],
     "era": [
       "2000s"
@@ -3557,7 +3666,8 @@
     "name": "The Frozen Autumn",
     "aka": [],
     "styles": [
-      "darkwave, coldwave"
+      "darkwave",
+      "coldwave"
     ],
     "era": [
       "2010s"
@@ -3608,7 +3718,8 @@
     "name": "The KVB",
     "aka": [],
     "styles": [
-      "darkwave, shoegaze (adj.)"
+      "darkwave",
+      "shoegaze (adj.)"
     ],
     "era": [
       "2010s"
@@ -3718,11 +3829,11 @@
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 3 (1979–1982). Subgenres: post-punk (adj.). Types: album, single. Notes: Noir single; goth DJs’ favorite.; Smoky baritone; noir new wave. Darker deep cuts used by DJs.; Smoky baritone; noir new wave. ‘Dumb Waiters’ etc. in sets."
+    "desc": "Releases: 3 (1979–1982). Subgenres: post-punk (adj.). Types: single, album. Notes: Noir single; goth DJs’ favorite.; Smoky baritone; noir new wave. Darker deep cuts used by DJs.; Smoky baritone; noir new wave. ‘Dumb Waiters’ etc. in sets."
   },
   {
     "id": "the-sisters-of-mercy",
@@ -3737,11 +3848,11 @@
     ],
     "region": "Leeds, United Kingdom",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 6 (1983–2000). Subgenres: gothic rock. Types: album, single. Notes: 12\" culture—floor staple.; End-of-decade anthem.; Leeds titans; drum-machines and baritone goth. Bombastic, choral darkwave; club anthems.; Leeds titans; drum-machines and baritone goth. Club standard; huge 12\".; Leeds titans; drum-machines and baritone goth. Trad-goth pillar (Wayne Hussey era end).; Touring singles decade; legacy act with unreleased live staples. Live staple known in trading circ"
+    "desc": "Releases: 6 (1983–2000). Subgenres: gothic rock. Types: single, album. Notes: 12\" culture—floor staple.; End-of-decade anthem.; Leeds titans; drum-machines and baritone goth. Bombastic, choral darkwave; club anthems.; Leeds titans; drum-machines and baritone goth. Club standard; huge 12\".; Leeds titans; drum-machines and baritone goth. Trad-goth pillar (Wayne Hussey era end).; Touring singles decade; legacy act with unreleased live staples. Live staple known in trading c…"
   },
   {
     "id": "the-sisters-of-mercy-side-projects",
@@ -3772,11 +3883,11 @@
     ],
     "region": "Leeds, United Kingdom",
     "tags": [
-      "ep",
-      "single"
+      "single",
+      "ep"
     ],
     "url": "",
-    "desc": "Releases: 2 (1982–1984). Subgenres: gothic rock. Types: ep, single. Notes: 12\" culture feeding goth clubs. Classic EP; floor mainstay.; 12\" culture feeding goth clubs. Club staple 12\"."
+    "desc": "Releases: 2 (1982–1984). Subgenres: gothic rock. Types: single, ep. Notes: 12\" culture feeding goth clubs. Classic EP; floor mainstay.; 12\" culture feeding goth clubs. Club staple 12\"."
   },
   {
     "id": "the-smiths",
@@ -3800,7 +3911,8 @@
     "name": "The Soft Moon",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s"
@@ -3826,11 +3938,11 @@
     ],
     "region": "London, United Kingdom",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (1979–1982). Subgenres: post-punk, post-punk (core-adj.). Types: album, ep. Notes: Adrian Borland’s project; bleak lyricism adopted later. Early signpost before 80s LPs.; Bleak lyricism and grand, dark arrangements. Debut; stark urgency.; Bleak lyricism and grand, dark arrangements. Masterpiece of desolation.; Bleak lyricism and grand, dark arrangements. More experimental, still dark.; Early recordings; scene context."
+    "desc": "Releases: 5 (1979–1982). Subgenres: post-punk, post-punk (core-adj.). Types: ep, album. Notes: Adrian Borland’s project; bleak lyricism adopted later. Early signpost before 80s LPs.; Bleak lyricism and grand, dark arrangements. Debut; stark urgency.; Bleak lyricism and grand, dark arrangements. Masterpiece of desolation.; Bleak lyricism and grand, dark arrangements. More experimental, still dark.; Early recordings; scene context."
   },
   {
     "id": "the-stranglers",
@@ -3922,7 +4034,8 @@
     "name": "This Mortal Coil",
     "aka": [],
     "styles": [
-      "ethereal, dreamwave"
+      "ethereal",
+      "dreamwave"
     ],
     "era": [
       "1980s"
@@ -3956,7 +4069,8 @@
     "name": "Tiamat",
     "aka": [],
     "styles": [
-      "gothic metal, atmospheric"
+      "gothic metal",
+      "atmospheric"
     ],
     "era": [
       "1990s"
@@ -3973,7 +4087,8 @@
     "name": "Tones on Tail",
     "aka": [],
     "styles": [
-      "gothic pop, post-punk"
+      "gothic pop",
+      "post-punk"
     ],
     "era": [
       "1980s"
@@ -3990,8 +4105,9 @@
     "name": "Tribulation",
     "aka": [],
     "styles": [
-      "gothic metal (crossover)",
-      "gothic metal, death rock (crossover)"
+      "gothic metal",
+      "death rock (crossover)",
+      "gothic metal (crossover)"
     ],
     "era": [
       "2010s",
@@ -4002,7 +4118,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2015–2021). Subgenres: gothic metal (crossover), gothic metal, death rock (crossover). Types: album. Notes: Dark, gothic-tinged metal; crossover appeal.; Refined and atmospheric gothic metal.; Swedish act; gothic-tinged metal with scene appeal. Moody, gothic textures.; Swedish gothic metal; adopted in goth/metal crossover scenes."
+    "desc": "Releases: 4 (2015–2021). Subgenres: gothic metal, death rock (crossover), gothic metal (crossover). Types: album. Notes: Dark, gothic-tinged metal; crossover appeal.; Refined and atmospheric gothic metal.; Swedish act; gothic-tinged metal with scene appeal. Moody, gothic textures.; Swedish gothic metal; adopted in goth/metal crossover scenes."
   },
   {
     "id": "tristania",
@@ -4026,7 +4142,8 @@
     "name": "Twin Tribes",
     "aka": [],
     "styles": [
-      "darkwave, post-punk"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2010s",
@@ -4055,7 +4172,7 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (1993–2007). Subgenres: goth metal. Types: album. Notes: US goth-metal crossover; baritone doom embraced by goth/alt clubs. Breakthrough LP; ‘Black No.1’ era.; US goth-metal crossover; baritone doom embraced by goth/alt clubs. Romantic and lush; scene-defining.; US goth-metal crossover; baritone doom with massive alt reach. Final LP; DJs pulled darker cuts.; US goth-metal crossover; baritone doom with massive alt reach. Scene-adopted despite mainstream "
+    "desc": "Releases: 4 (1993–2007). Subgenres: goth metal. Types: album. Notes: US goth-metal crossover; baritone doom embraced by goth/alt clubs. Breakthrough LP; ‘Black No.1’ era.; US goth-metal crossover; baritone doom embraced by goth/alt clubs. Romantic and lush; scene-defining.; US goth-metal crossover; baritone doom with massive alt reach. Final LP; DJs pulled darker cuts.; US goth-metal crossover; baritone doom with massive alt reach. Scene-adopted despite mainstre…"
   },
   {
     "id": "uk-decay",
@@ -4080,7 +4197,8 @@
     "name": "Ultravox!",
     "aka": [],
     "styles": [
-      "post-punk, synth (adj.)"
+      "post-punk",
+      "synth (adj.)"
     ],
     "era": [
       "1970s"
@@ -4097,8 +4215,8 @@
     "name": "Undertheskin",
     "aka": [],
     "styles": [
-      "darkwave, post-punk",
-      "post-punk, darkwave"
+      "darkwave",
+      "post-punk"
     ],
     "era": [
       "2020s"
@@ -4108,15 +4226,16 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2020–2021). Subgenres: darkwave, post-punk, post-punk, darkwave. Types: album. Notes: Polish act; sharp, modern darkwave sound.; Polish act; strong presence in 2020s darkwave."
+    "desc": "Releases: 2 (2020–2021). Subgenres: darkwave, post-punk. Types: album. Notes: Polish act; sharp, modern darkwave sound.; Polish act; strong presence in 2020s darkwave."
   },
   {
     "id": "unto-others",
     "name": "Unto Others",
     "aka": [],
     "styles": [
-      "gothic heavy metal (crossover)",
-      "gothic metal, heavy goth rock"
+      "gothic metal",
+      "heavy goth rock",
+      "gothic heavy metal (crossover)"
     ],
     "era": [
       "2020s"
@@ -4126,14 +4245,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 2 (2021). Subgenres: gothic heavy metal (crossover), gothic metal, heavy goth rock. Types: album. Notes: Former Idle Hands; big crossover impact.; Goth-tinged metal; embraced by some goth DJs."
+    "desc": "Releases: 2 (2021). Subgenres: gothic metal, heavy goth rock, gothic heavy metal (crossover). Types: album. Notes: Former Idle Hands; big crossover impact.; Goth-tinged metal; embraced by some goth DJs."
   },
   {
     "id": "vnv-nation",
     "name": "VNV Nation",
     "aka": [],
     "styles": [
-      "futurepop, ebm"
+      "futurepop",
+      "ebm"
     ],
     "era": [
       "1990s",
@@ -4147,14 +4267,15 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 15 (1995–2024). Subgenres: futurepop, ebm. Types: album, single. Notes: Defining club single.; UK/IE duo defining 2000s futurepop; massive US club presence. Anthemic singles kept dancefloors moving.; UK/IE duo defining 2000s futurepop; massive US club presence. Expanded palette; strong singles.; UK/IE duo defining 2000s futurepop; massive US club presence. Late-decade continuation.; UK/IE duo defining 2000s futurepop; massive US club presence. Seminal LP; ‘Beloved’ er"
+    "desc": "Releases: 15 (1995–2024). Subgenres: futurepop, ebm. Types: album, single. Notes: Defining club single.; UK/IE duo defining 2000s futurepop; massive US club presence. Anthemic singles kept dancefloors moving.; UK/IE duo defining 2000s futurepop; massive US club presence. Expanded palette; strong singles.; UK/IE duo defining 2000s futurepop; massive US club presence. Late-decade continuation.; UK/IE duo defining 2000s futurepop; massive US club presence. Seminal LP; ‘Beloved’…"
   },
   {
     "id": "virgin-prunes",
     "name": "Virgin Prunes",
     "aka": [],
     "styles": [
-      "post-punk, avant-goth"
+      "post-punk",
+      "avant-goth"
     ],
     "era": [
       "1980s"
@@ -4171,7 +4292,8 @@
     "name": "Whispering Sons",
     "aka": [],
     "styles": [
-      "post-punk, darkwave"
+      "post-punk",
+      "darkwave"
     ],
     "era": [
       "2010s"
@@ -4223,7 +4345,8 @@
     "name": "Wolfsheim",
     "aka": [],
     "styles": [
-      "synthpop, darkwave"
+      "synthpop",
+      "darkwave"
     ],
     "era": [
       "1990s"
@@ -4241,9 +4364,11 @@
     "name": "X-RX",
     "aka": [],
     "styles": [
-      "aggrotech, hard dance",
-      "harsh ebm, industrial",
-      "harsh electro, industrial"
+      "harsh electro",
+      "industrial",
+      "aggrotech",
+      "hard dance",
+      "harsh ebm"
     ],
     "era": [
       "2010s",
@@ -4254,14 +4379,15 @@
       "album"
     ],
     "url": "",
-    "desc": "Releases: 4 (2012–2022). Subgenres: aggrotech, hard dance, harsh ebm, industrial, harsh electro, industrial. Types: album. Notes: German hard electronics; dancefloor oriented.; Hands-up style harsh electro; DJ weapon.; Late-decade presence in harder sets.; Peak-energy DJ weaponry."
+    "desc": "Releases: 4 (2012–2022). Subgenres: harsh electro, industrial, aggrotech, hard dance, harsh ebm. Types: album. Notes: German hard electronics; dancefloor oriented.; Hands-up style harsh electro; DJ weapon.; Late-decade presence in harder sets.; Peak-energy DJ weaponry."
   },
   {
     "id": "xmal-deutschland",
     "name": "Xmal Deutschland",
     "aka": [],
     "styles": [
-      "gothic rock, darkwave"
+      "gothic rock",
+      "darkwave"
     ],
     "era": [
       "1980s"
@@ -4278,7 +4404,8 @@
     "name": "Youth Code",
     "aka": [],
     "styles": [
-      "ebm, industrial"
+      "ebm",
+      "industrial"
     ],
     "era": [
       "2010s",
@@ -4286,18 +4413,19 @@
     ],
     "region": "Los Angeles, United States",
     "tags": [
-      "album",
-      "ep"
+      "ep",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 5 (2013–2021). Subgenres: ebm, industrial. Types: album, ep. Notes: Expanded their reach; clubs adopted tracks.; Raw EBM energy; reinforced their scene impact.; US duo; collaborative 2020s presence. King Yosef collab; punishing EBM.; US duo; raw EBM energy with punk edge. Debut LP; revitalized US EBM.; US duo; raw EBM energy with punk edge. Hard-hitting; DJs embraced singles."
+    "desc": "Releases: 5 (2013–2021). Subgenres: ebm, industrial. Types: ep, album. Notes: Expanded their reach; clubs adopted tracks.; Raw EBM energy; reinforced their scene impact.; US duo; collaborative 2020s presence. King Yosef collab; punishing EBM.; US duo; raw EBM energy with punk edge. Debut LP; revitalized US EBM.; US duo; raw EBM energy with punk edge. Hard-hitting; DJs embraced singles."
   },
   {
     "id": "zeraphine",
     "name": "Zeraphine",
     "aka": [],
     "styles": [
-      "goth rock, darkwave"
+      "goth rock",
+      "darkwave"
     ],
     "era": [
       "2000s"
@@ -4314,7 +4442,8 @@
     "name": "Zeromancer",
     "aka": [],
     "styles": [
-      "industrial rock, synth rock"
+      "industrial rock",
+      "synth rock"
     ],
     "era": [
       "2000s",
@@ -4333,8 +4462,9 @@
     "name": "Zola Jesus",
     "aka": [],
     "styles": [
-      "dark pop (adj.)",
-      "dark pop, industrial pop (adj.)"
+      "dark pop",
+      "industrial pop (adj.)",
+      "dark pop (adj.)"
     ],
     "era": [
       "2010s",
@@ -4346,15 +4476,17 @@
       "single"
     ],
     "url": "",
-    "desc": "Releases: 5 (2010–2022). Subgenres: dark pop (adj.), dark pop, industrial pop (adj.). Types: album, single. Notes: Standalone single; deeper cut for sets.; US dark pop artist; scene overlap remains. Return to darker palette.; US dark pop artist; significant goth-scene overlap. Early breakthrough; club-selected tracks.; US dark pop artist; significant goth-scene overlap. Pop shift; DJs picked darker cuts.; US dark pop artist; significant goth-scene overlap. Return to gloom; strong reception."
+    "desc": "Releases: 5 (2010–2022). Subgenres: dark pop, industrial pop (adj.), dark pop (adj.). Types: album, single. Notes: Standalone single; deeper cut for sets.; US dark pop artist; scene overlap remains. Return to darker palette.; US dark pop artist; significant goth-scene overlap. Early breakthrough; club-selected tracks.; US dark pop artist; significant goth-scene overlap. Pop shift; DJs picked darker cuts.; US dark pop artist; significant goth-scene overlap. Return to gloom; strong reception."
   },
   {
     "id": "sitd",
     "name": "[:SITD:]",
     "aka": [],
     "styles": [
-      "harsh ebm, dark electro",
-      "harsh electro, ebm"
+      "harsh electro",
+      "ebm",
+      "harsh ebm",
+      "dark electro"
     ],
     "era": [
       "2000s",
@@ -4363,10 +4495,10 @@
     ],
     "region": "Bochum, Germany",
     "tags": [
-      "album",
-      "single"
+      "single",
+      "album"
     ],
     "url": "",
-    "desc": "Releases: 7 (2003–2020). Subgenres: harsh ebm, dark electro, harsh electro, ebm. Types: album, single. Notes: Breakout harsh-electro single; DJs hammered it.; Continued 2020s harsh electronics; DJs mined singles.; Harsh EBM with memorable hooks.; Harsh electro; consistent scene presence.; Kept momentum in late-2000s.; Late-decade persistence in clubs.; Late-era LP; club-usable tracks."
+    "desc": "Releases: 7 (2003–2020). Subgenres: harsh electro, ebm, harsh ebm, dark electro. Types: single, album. Notes: Breakout harsh-electro single; DJs hammered it.; Continued 2020s harsh electronics; DJs mined singles.; Harsh EBM with memorable hooks.; Harsh electro; consistent scene presence.; Kept momentum in late-2000s.; Late-decade persistence in clubs.; Late-era LP; club-usable tracks."
   }
 ]
